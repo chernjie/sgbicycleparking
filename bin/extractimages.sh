@@ -11,6 +11,16 @@ _require () {
   done
 }
 
+_init() {
+  mkdir -p images tmp
+  rm images.map
+  rm images/*
+}
+
+_findImages() {
+  xml2 < *.kml  | grep /kml/Document/Folder/Placemark/ExtendedData/Data/value | cut -d= -f2- | xargs -n1
+}
+
 _downloadImages() {
   local _dest1
   while read i
@@ -33,9 +43,15 @@ _generateFilename () {
   echo $(_encodeFileName "$1").$(_findFileExtention "$1")
 }
 
-_require xml2 md5 file cut curl mv grep xargs
+_replaceImages() {
+  gsed -i s/amp\;//g *kml
+  cat images.map | while read i j
+  do
+    gsed -i "s,$j,$i,g" *.kml
+  done
+}
 
-mkdir -p images tmp
-rm images.map
-rm images/*
-xml2 < *.kml  | grep /kml/Document/Folder/Placemark/ExtendedData/Data/value | cut -d= -f2- | xargs -n1 | _downloadImages
+_require xml2 md5 file cut curl mv grep xargs cat gsed
+
+_findImages | _downloadImages
+_replaceImages
