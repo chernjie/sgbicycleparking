@@ -24,15 +24,9 @@ _downloadKML() {
   mv -v "$DOWNLOADFILE" .
 }
 
-_commit() {
-  git add .
-  git commit -m "Daily backup"
-  git push
-}
-
 _require git
 
 GOOGLE_MAP_ID=${GOOGLE_MAP_ID:-"zK3wb27P0oOw.kqYvfj1SZL2M"}
 DOWNLOADFILE=~/Downloads/"SG Bicycle Parking Project.kml"
 
-_downloadKML && _commit
+_downloadKML

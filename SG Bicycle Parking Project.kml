@@ -2,7 +2,7 @@
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
 		<name>SG Bicycle Parking Project</name>
-		<description><![CDATA[Map of publicly accessible bicycle racks/parking facilities in Singapore. Short URL to this map: https://goo.gl/5Kb3DC<br><br>Green icons: photo(s) attached<br>Red icons: unverified/no photos<br><br>Note: Although not necessarily listed here, most HDB void decks have several racks installed.<br><br>Mail varfie@gmail.com if interested to contribute!]]></description>
+		<description><![CDATA[Map of publicly accessible bicycle racks/parking facilities in Singapore. Short URL to this map: http://bit.ly/sgbikeparking or https://goo.gl/5Kb3DC<br><br>Green icons: photo(s) attached<br>Red icons: unverified/no photos<br><br>Note: Although not necessarily listed here, most HDB void decks have several racks installed.<br><br>Mail varfie@gmail.com if interested to contribute!]]></description>
 		<Folder>
 			<name>Bicycle racks</name>
 			<Placemark>
@@ -215,11 +215,11 @@
 			</Placemark>
 			<Placemark>
 				<name>Bugis Junction/InterContinental directly outside Baker & Cook, outdoor rack</name>
-				<description><![CDATA[<img src="images/2f622d4a34326f12443537dc7d10851a.html" height="200" width="auto" /><br><br>Unsheltered. Spiral rack.]]></description>
+				<description><![CDATA[<img src="images/c256bce1bd9e56ba88e7b6672eeb5357.html" height="200" width="auto" /><br><br>Unsheltered. Spiral rack.]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>images/2f622d4a34326f12443537dc7d10851a.html</value>
+						<value>images/c256bce1bd9e56ba88e7b6672eeb5357.html</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -333,11 +333,11 @@
 			</Placemark>
 			<Placemark>
 				<name>Suntec City, B1 carpark (enter from Entrance E)</name>
-				<description><![CDATA[<img src="images/c1a29c91d41f97c1e1a58a628eb85870.html" height="200" width="auto" /><br><br>Wheel racks for 8 bicycles at B1 near carpark entrance E. May be difficult to secure with a single lock.<br><br><img src="images/74aa6f05978c7f3b71e43a51d9d08547.html" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/e61195c80397456797ea0eb34396feaf.html" height="200" width="auto" /><br><br>Wheel racks for 8 bicycles at B1 near carpark entrance E. May be difficult to secure with a single lock.<br><br><img src="images/9e64b68873959201e966e5da13e2b274.html" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>images/c1a29c91d41f97c1e1a58a628eb85870.html images/74aa6f05978c7f3b71e43a51d9d08547.html</value>
+						<value>images/e61195c80397456797ea0eb34396feaf.html images/9e64b68873959201e966e5da13e2b274.html</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -679,11 +679,11 @@
 			</Placemark>
 			<Placemark>
 				<name>National Library Building, corridor facing middle road</name>
-				<description><![CDATA[<img src="images/ac3dccb0780a4a76c6da06146e272d4f.html" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="images/06dfaffdf8f6a904c3ed4fd6614fa4fe.html" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/8d303a782a44f5d95fa94c6eba407fb5.html" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="images/eb1091c4e0bbc6a6ce5f03d7d7de8fe5.html" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>images/ac3dccb0780a4a76c6da06146e272d4f.html images/06dfaffdf8f6a904c3ed4fd6614fa4fe.html</value>
+						<value>images/8d303a782a44f5d95fa94c6eba407fb5.html images/eb1091c4e0bbc6a6ce5f03d7d7de8fe5.html</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -692,11 +692,11 @@
 			</Placemark>
 			<Placemark>
 				<name>National Library Building, corridor facing North Bridge Rd</name>
-				<description><![CDATA[<img src="images/ab38f7fdcf883d25ab1b31b7001882b8.html" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bay with straight wheel racks.]]></description>
+				<description><![CDATA[<img src="images/056a7e22daaea62416b4272c1f0abf44.html" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bay with straight wheel racks.]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>images/ab38f7fdcf883d25ab1b31b7001882b8.html</value>
+						<value>images/056a7e22daaea62416b4272c1f0abf44.html</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -705,11 +705,11 @@
 			</Placemark>
 			<Placemark>
 				<name>National Library Building, outdoor racks along walkway facing Bain St</name>
-				<description><![CDATA[<img src="images/794cd3602cfb4d0ac9c21ebffe9139d5.html" height="200" width="auto" /><br><br>Unsheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="images/2a34783f363e122fb1b200dd1f336e8f.html" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/320aac3aa68ff91fd2c0f05901edcff1.html" height="200" width="auto" /><br><br>Unsheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="images/6187171e23296fd0703c60574f9c7606.html" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>images/794cd3602cfb4d0ac9c21ebffe9139d5.html images/2a34783f363e122fb1b200dd1f336e8f.html</value>
+						<value>images/320aac3aa68ff91fd2c0f05901edcff1.html images/6187171e23296fd0703c60574f9c7606.html</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -718,12 +718,28 @@
 			</Placemark>
 			<Placemark>
 				<name>Kallang Wave, sheltered racks along outside corridor</name>
-				<description><![CDATA[Sheffield racks in the corner of the shaded corridor.]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/27133b12d1c1da443ff6abd1f7675e64.jpeg" height="200" width="auto" /><br><br>Sheffield racks in the corner of the shaded corridor.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/27133b12d1c1da443ff6abd1f7675e64.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.8732111,1.3022398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nex Serangoon, between bus stop and mrt exit B</name>
+				<description><![CDATA[<img src="images/7ab96caca473776f48d0b65d69583703.jpeg" height="200" width="auto" /><br><br>Unsheltered. Sheffield racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/7ab96caca473776f48d0b65d69583703.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.87316290000001,1.3495145,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
