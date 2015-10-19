@@ -29,16 +29,21 @@ _downloadImages() {
     curl "$i" --output "$_dest1" --silent --location
     _dest2=images/$(_generateFilename "$_dest1")
     mv -v "$_dest1" "$_dest2"
+    if test "html" == "${_dest2##*.}"
+    then
+      echo An error downloading the image "$i" >&2
+      continue
+    fi
     echo "$_dest2" "$i" >> images.map
   done
 }
 
 _generateFilename () {
   _encodeFileName () {
-    md5 < "$1" # | cut -d= -f2- | tr -d ' '
+    md5 < "$1"
   }
   _findFileExtention () {
-    file "$1" | cut -d: -f2- | cut -d\  -f2 | tr '[:upper:]' '[:lower:]'
+    file --mime-type "$1" | cut -d/ -f3
   }
   echo $(_encodeFileName "$1").$(_findFileExtention "$1")
 }
