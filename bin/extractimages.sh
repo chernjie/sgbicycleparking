@@ -51,7 +51,14 @@ _replaceImages() {
   done
 }
 
+_commit() {
+  git add images.map images/*jpeg *.kml
+  git commit -m "Daily images backup"
+  git push
+}
+
 _require xml2 md5 file cut curl mv grep xargs cat gsed
 
-_findImages | _downloadImages
-_replaceImages
+_init &&
+_findImages | _downloadImages &&
+_replaceImages && _commit
