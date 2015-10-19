@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>SG Bicycle Parking Project</name>
+		<description><![CDATA[Map of publicly accessible bicycle racks/parking facilities in Singapore. Short URL to this map: https://goo.gl/5Kb3DC<br><br>Green icons: photo(s) attached<br>Red icons: unverified/no photos<br><br>Note: Although not necessarily listed here, most HDB void decks have several racks installed.<br><br>Mail varfie@gmail.com if interested to contribute!]]></description>
+		<Folder>
+			<name>Bicycle racks</name>
+			<Placemark>
+				<name>Bugis Downtown Line MRT exit, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/cgMGMosecOWZVH3VhtuXSFY6yw6nQad1_82AVk5jFzrklZRX9xU0F7oo2ftgqE-yJLv5sPAeeKJhV9Nz4pQW6uogZMBwZe1dYNxp-f5vKrzSA5kygUKxIkNtuDoPGLvb_Fw4versWGRJNGOtkQFnKvSYEr2tKXYRsW4r1Yw3Nt65KqbFhx7DXOLaFOqAv4DhHb6jbCXWCKQhjr0a8n9up0q3I8bLjUst_j2PTXSAHrywbc97SAa8Cb9He15cCkCVfFTj3DwyyVJMJ0nfIXKqtyRW8X4BLGkOkx-lXE1AVLh7J_iCe6rcMr9pnxM1CByLD6Zf6PLVHrgLFAPEdio-4snYGVsXXIpD_TVPTaA2DK0VYMbH2gTmrkytIJqguhLzvjby5tTTWt0vVxkBRC9D5ScxlscT8G3DwjFNw1CifcNp0P9myRxcn0ffqvQniO_8usR0zWOsQVEfVv8SUTEswvhrjg8NYl8UNT_fDNwL7jeVIBmX6p3vK96QR4U70O7Th9uXBfPY-YNgcpHb_eVL2l2nvNQy1oOscsMm1YFv7FE=w936-h702-no" height="200" width="auto" /><br><br>40 Sheffield racks, unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/cgMGMosecOWZVH3VhtuXSFY6yw6nQad1_82AVk5jFzrklZRX9xU0F7oo2ftgqE-yJLv5sPAeeKJhV9Nz4pQW6uogZMBwZe1dYNxp-f5vKrzSA5kygUKxIkNtuDoPGLvb_Fw4versWGRJNGOtkQFnKvSYEr2tKXYRsW4r1Yw3Nt65KqbFhx7DXOLaFOqAv4DhHb6jbCXWCKQhjr0a8n9up0q3I8bLjUst_j2PTXSAHrywbc97SAa8Cb9He15cCkCVfFTj3DwyyVJMJ0nfIXKqtyRW8X4BLGkOkx-lXE1AVLh7J_iCe6rcMr9pnxM1CByLD6Zf6PLVHrgLFAPEdio-4snYGVsXXIpD_TVPTaA2DK0VYMbH2gTmrkytIJqguhLzvjby5tTTWt0vVxkBRC9D5ScxlscT8G3DwjFNw1CifcNp0P9myRxcn0ffqvQniO_8usR0zWOsQVEfVv8SUTEswvhrjg8NYl8UNT_fDNwL7jeVIBmX6p3vK96QR4U70O7Th9uXBfPY-YNgcpHb_eVL2l2nvNQy1oOscsMm1YFv7FE=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8567021,1.2987887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kallang Wave, outdoor front-wheel racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/YfPrXDbZLoyRTV16hKW5iMJICOAUVi0dITBIF9dM9BT1w_6VXkp46g5wqSjxMxQvsaN2Ys-gewXbRmOopN3-KBl5yaTNSz06niiWIdfzq6jl2lh225kANB6DfNo6vO1AVYiO5JQeZSBYJcFz-zt47Rsfg78DVDajvtaW44anCMUqKLv-lrPo9-FumhQGU8NSGKUxAPU2KChrJ6mxna9oLzpNaTVcv5QqGKp5EYDGAX8DezYRisYZ9RyuEbwOfkUeXBd4gM_mMx5llDhALrvOIIM3Nh8r3lDIgNzWPAp94Yg6EefwsEEdnby85STUCW5huNXUt8WMiTmV8oDSpu0FpB777U23OrsApUfJLuljuaIWRJRD8yB_feo7XaAF0GSYnnkk1Z79CZUZU5k8CDdNTlBjpTLciUODycFf657H3ViypnMkVlgG_z97U-AeLekT4ghE0tKBdysWECynVkE2TWaE-6WYzC-BT_eZGbw3pqd9gnIGmCD1LRnmWZFJ3S0evZLgnAR00-nUkKO4hKZgxyjmCOoaczgYYWfQYWVaUzE=w936-h702-no" height="200" width="auto" /><br><br>Sheltered (roof), ground floor. Limited slots.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/YfPrXDbZLoyRTV16hKW5iMJICOAUVi0dITBIF9dM9BT1w_6VXkp46g5wqSjxMxQvsaN2Ys-gewXbRmOopN3-KBl5yaTNSz06niiWIdfzq6jl2lh225kANB6DfNo6vO1AVYiO5JQeZSBYJcFz-zt47Rsfg78DVDajvtaW44anCMUqKLv-lrPo9-FumhQGU8NSGKUxAPU2KChrJ6mxna9oLzpNaTVcv5QqGKp5EYDGAX8DezYRisYZ9RyuEbwOfkUeXBd4gM_mMx5llDhALrvOIIM3Nh8r3lDIgNzWPAp94Yg6EefwsEEdnby85STUCW5huNXUt8WMiTmV8oDSpu0FpB777U23OrsApUfJLuljuaIWRJRD8yB_feo7XaAF0GSYnnkk1Z79CZUZU5k8CDdNTlBjpTLciUODycFf657H3ViypnMkVlgG_z97U-AeLekT4ghE0tKBdysWECynVkE2TWaE-6WYzC-BT_eZGbw3pqd9gnIGmCD1LRnmWZFJ3S0evZLgnAR00-nUkKO4hKZgxyjmCOoaczgYYWfQYWVaUzE=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8722751,1.303661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shimano Cycling World, outdoor full racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/Blz-q0nTSASg45JnDXVUxG10V0eitRYglVLbzQLVSCth-9akFiEbNQrQiGd0ismgrp_tASmDDbjexLPUW4tzeam87oObvkYick29vri6-pl0PDf8Ubv4vpeNvOr8fbyIq0W-k2tJvAUFgqkOclh8CB1qdrCrblkhb3OCx7rb3WP8skpzSYq7fGFtaNOhGzUgAB_oAm2bIRbQ_tteb5O-thXFar1frHhOae83P5jj5nV69swVeGTQCBPKox_04zSBmR6lY9eC5w1OxoHh4B4sxgps2oQaAVSU9JE55j3OCBEJpxhNfSHVmdlzcxA_kOKqClXqw-_NzJhSl2Ic0fGojJjz_0saAknoflUMQuSBg2ZDiF4sxZBawci8pwV1Etqq3qGELG2eGClj_ENhxvAFk1fCa2CO97FAWNG84S54o7Ve-loDIzplcVJgmRJVrNZuVI6w4aP7I0Xia9IPI7zut5-k7TV4ZdBlXvq_Rr-ri85N3yNwKXSiKszQtaVlyoVgIlL-WuoSBl-wm7IaHffyvTkVt7B14KzINPAiL6sDhMA=w936-h702-no" height="200" width="auto" /><br><br>Full-size racks for visitors to Shimano Cycling World. Only available during Shimano Cycling World operating hours. Racks kept indoors at night.<br><br><img src="https://lh3.googleusercontent.com/TJC-RhjH7KEAbbFbI7euUQrfk-59IInKNK7T5UKq1lByGaPNNLhtX4zMXKLs9wmoLIRKcr9xEWFp2OOJNrs7ZyU9XnNlIp-U7l_X9cvlyPOZfaNfnYv57ENvFVBD5TivmmlngM6-zTzR7TlJt52cFfXarpU6ZW3IF5CrerjQHcmtdMXJ_27TTqDjDdmNLc-xdf3Ta2twLb0VKGHFuWH1Mhj1_jHZZzyoJD5qRSaKouVjEc89M-3M9Q6NxsY6mE99f-N_N55M2fa15legj0rQ_l1UamQlTI40iWpRiGged-Bh5I36Y-Lcg128SfOfd2XJ9kmkVGqcSaNq2r2AQMmVoaiuqUhVhMeihZKN1T9OLTGpvDW8rq9ISoojO3X1Fs9CEGCBY2yG43LWAOKeBgErSP1WUOtUjLTaBoxgabTtQ7JPwGMWzEec1jpqwDcxU93c9jGDLKtVFkEEJFNg2QIZCzpUS7nkjgfK_tUQZG9fubuRJQ-E8aAg5axbRx_7404EM1Zr3qMGfcu2dO6LMbwF-Noacj5GrC_hAy1mhwF_6hQ=w936-h702-no" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/Blz-q0nTSASg45JnDXVUxG10V0eitRYglVLbzQLVSCth-9akFiEbNQrQiGd0ismgrp_tASmDDbjexLPUW4tzeam87oObvkYick29vri6-pl0PDf8Ubv4vpeNvOr8fbyIq0W-k2tJvAUFgqkOclh8CB1qdrCrblkhb3OCx7rb3WP8skpzSYq7fGFtaNOhGzUgAB_oAm2bIRbQ_tteb5O-thXFar1frHhOae83P5jj5nV69swVeGTQCBPKox_04zSBmR6lY9eC5w1OxoHh4B4sxgps2oQaAVSU9JE55j3OCBEJpxhNfSHVmdlzcxA_kOKqClXqw-_NzJhSl2Ic0fGojJjz_0saAknoflUMQuSBg2ZDiF4sxZBawci8pwV1Etqq3qGELG2eGClj_ENhxvAFk1fCa2CO97FAWNG84S54o7Ve-loDIzplcVJgmRJVrNZuVI6w4aP7I0Xia9IPI7zut5-k7TV4ZdBlXvq_Rr-ri85N3yNwKXSiKszQtaVlyoVgIlL-WuoSBl-wm7IaHffyvTkVt7B14KzINPAiL6sDhMA=w936-h702-no https://lh3.googleusercontent.com/TJC-RhjH7KEAbbFbI7euUQrfk-59IInKNK7T5UKq1lByGaPNNLhtX4zMXKLs9wmoLIRKcr9xEWFp2OOJNrs7ZyU9XnNlIp-U7l_X9cvlyPOZfaNfnYv57ENvFVBD5TivmmlngM6-zTzR7TlJt52cFfXarpU6ZW3IF5CrerjQHcmtdMXJ_27TTqDjDdmNLc-xdf3Ta2twLb0VKGHFuWH1Mhj1_jHZZzyoJD5qRSaKouVjEc89M-3M9Q6NxsY6mE99f-N_N55M2fa15legj0rQ_l1UamQlTI40iWpRiGged-Bh5I36Y-Lcg128SfOfd2XJ9kmkVGqcSaNq2r2AQMmVoaiuqUhVhMeihZKN1T9OLTGpvDW8rq9ISoojO3X1Fs9CEGCBY2yG43LWAOKeBgErSP1WUOtUjLTaBoxgabTtQ7JPwGMWzEec1jpqwDcxU93c9jGDLKtVFkEEJFNg2QIZCzpUS7nkjgfK_tUQZG9fubuRJQ-E8aAg5axbRx_7404EM1Zr3qMGfcu2dO6LMbwF-Noacj5GrC_hAy1mhwF_6hQ=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8731763,1.3013764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1K4afvO1SX3zQOxSMHqeR32mzBpDdYE5jyQ" height="200" width="auto" /><br><br>Unsheltered. Usually crowded.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1K4afvO1SX3zQOxSMHqeR32mzBpDdYE5jyQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8746729,1.3021755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, sheltered corridor</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1H_4-GqBUva9m4gq2T1at4qhqoSOhr9nbGw" height="200" width="auto" /><br><br>Partially sheltered. Wheel racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1H_4-GqBUva9m4gq2T1at4qhqoSOhr9nbGw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.87486880000002,1.3024275,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, sheltered corridor</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1ByfMKerCuPZ3AnMXCQcnn4wQizNWe2HkHg" height="200" width="auto" /><br><br>Partially sheltered. Wheel racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1ByfMKerCuPZ3AnMXCQcnn4wQizNWe2HkHg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8760704,1.3029799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1SlZPK4e-jewI86dak0Q-7yWYPeyxlOam7g" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1SlZPK4e-jewI86dak0Q-7yWYPeyxlOam7g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8764834,1.3032856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1X5VL6A7RZkk3IborMyhLJsFINggC0clUBg" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1X5VL6A7RZkk3IborMyhLJsFINggC0clUBg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8761777,1.3033929,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1aLN2UX93DHjw7QUu5yKlPRJILx4mW6SVbw" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1aLN2UX93DHjw7QUu5yKlPRJILx4mW6SVbw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8757485,1.3031354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stadium MRT, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1aYFBztvv_c1G6p6PM_q-wd-KQna7zpe3WA" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1aYFBztvv_c1G6p6PM_q-wd-KQna7zpe3WA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8749707,1.30276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OCBC Arena, sheltered racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1hdVKfdy_kSmGFjrrTjuga7vjrKGYMYp5yQ" height="200" width="auto" /><br><br>Limited slots.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1hdVKfdy_kSmGFjrrTjuga7vjrKGYMYp5yQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8763708,1.3044977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OCBC Aquatic Centre, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1rdc5PBnQD5fyZvx6YvkCHOLzLLzbsf52EA" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1rdc5PBnQD5fyZvx6YvkCHOLzLLzbsf52EA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8723582,1.3050661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indoor Stadium near Tanjong Rhu footbridge, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/Ki-D338LLDSB3oEzGS7e5mSvKwOVoU2xDgiJ2aOkYkFERIFcdqZIRZ3KAM9i-Ge-Ajffh7WVxd3AltbFzy5YFNIV7Cr_v4EZ53oUzcJgM0pHVFQIY_phHlFM_VP4XH6Unuk317OkyX66IJh9S7GAZv4oq0U0SbQ_e2btyevTLM8F_Qghk-LH2mVPmPBkRG-hCDLjF-Zt2YW5K6L5IZXyjUOq5_A2VCLVkelkC8auDN-i7pnuGLsWThJirYZLCK9o1SUGeZa9PoXdMIBUph6k7GHAiyfKc7J0dWyiWS502gthd6cTecTq2n_BVysE5yRKqUIILpBt4Y7eRtzdnBZjIgrkojI_TOFe95Pw_sehAeFpUoX9tFpIdYptv-43Bk-au2bNDbc0BpKjMYX4APd4tBLT8EEwWNgzT2dU8XufmpJaRvraZ-aV2_POawWyoWC3PW4fftXUIsylkfbgkuBLBecGtJpQztX1AKHKioLXWrB2rz3biDNBnz6xMRHhS0zOg1C62Vw7ztFltaB4_eSHiKZzAM7AOaWTs2tsg9eoAmo=w936-h702-no" height="200" width="auto" /><br><br>~6 slots. Sheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/Ki-D338LLDSB3oEzGS7e5mSvKwOVoU2xDgiJ2aOkYkFERIFcdqZIRZ3KAM9i-Ge-Ajffh7WVxd3AltbFzy5YFNIV7Cr_v4EZ53oUzcJgM0pHVFQIY_phHlFM_VP4XH6Unuk317OkyX66IJh9S7GAZv4oq0U0SbQ_e2btyevTLM8F_Qghk-LH2mVPmPBkRG-hCDLjF-Zt2YW5K6L5IZXyjUOq5_A2VCLVkelkC8auDN-i7pnuGLsWThJirYZLCK9o1SUGeZa9PoXdMIBUph6k7GHAiyfKc7J0dWyiWS502gthd6cTecTq2n_BVysE5yRKqUIILpBt4Y7eRtzdnBZjIgrkojI_TOFe95Pw_sehAeFpUoX9tFpIdYptv-43Bk-au2bNDbc0BpKjMYX4APd4tBLT8EEwWNgzT2dU8XufmpJaRvraZ-aV2_POawWyoWC3PW4fftXUIsylkfbgkuBLBecGtJpQztX1AKHKioLXWrB2rz3biDNBnz6xMRHhS0zOg1C62Vw7ztFltaB4_eSHiKZzAM7AOaWTs2tsg9eoAmo=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.87405340000001,1.2997406000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indoor Stadium, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=104vlMmuhshYYUsmYGGnt5Ocx-Ey3rCxAaA" height="200" width="auto" /><br><br>Partially sheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=104vlMmuhshYYUsmYGGnt5Ocx-Ey3rCxAaA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.875196,1.3011136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leisure Park Kallang, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/U8f6qzLS6Cum7bTVUWwcdKmbsMb2tNCCNVtdrR4kAjTOhVQFvUgUdseRzC5XUmRjmqweo9yDD1Mk=s400" height="200" width="auto" /><br><br>Very shallow wheel racks. Difficult to secure with single lock. Recommend parking at the more secure racks closer to the MRT instead.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/U8f6qzLS6Cum7bTVUWwcdKmbsMb2tNCCNVtdrR4kAjTOhVQFvUgUdseRzC5XUmRjmqweo9yDD1Mk=s400</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8768482,1.3028083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkway Parade, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=161xiZrlzib3_awyGqzAVH_d7p-Kr1POakA" height="200" width="auto" /><br><br>Wheel racks. May be difficult to secure with single lock. Often crowded. Bicycle theft previously reported.<br><br><img src="http://drive.google.com/uc?export=view&id=1D5MO8gB5x5BWbfXl2ti9paIfBInaFwVQFA" height="200" width="auto" /><br><br><img src="http://drive.google.com/uc?export=view&id=1Z4TIOOpw2gmMqilDv_kIPCXsqFEx_MA-vg" height="200" width="auto" /><br><br><img src="http://drive.google.com/uc?export=view&id=1NaYD5hfToZg-R_PJO04iBAW_Vo84vwupMw" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=161xiZrlzib3_awyGqzAVH_d7p-Kr1POakA http://drive.google.com/uc?export=view&amp;id=1D5MO8gB5x5BWbfXl2ti9paIfBInaFwVQFA http://drive.google.com/uc?export=view&amp;id=1Z4TIOOpw2gmMqilDv_kIPCXsqFEx_MA-vg http://drive.google.com/uc?export=view&amp;id=1NaYD5hfToZg-R_PJO04iBAW_Vo84vwupMw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9053628,1.3021916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bugis Junction/InterContinental directly outside Baker &amp; Cook, outdoor rack</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/kIFEB1KwZHkB-HOWXLY7l2UtcIillzqJzQ2fo-baajYZwys0dfERpj7horjNbixLkEKYat_Sc79owunwqC1UUpyiZ0mWNRHwSnF0b9ZguVXG5ts6rVx4WB6IDpK5MiURRArEn7485euLghuYeAHS3j-sLuktbqZo2p01PHIE-q4W-ljqQVfLruDSFWJjWjnwwRY-8nmTAo1bbhBT2FJjwRYril_gZ6BIs4FOy_619WOiEuYSSD0vB8v3KspE9_QrN3yFr2XtjJd6dOd_piO6a8a3ulEDoasl7QiAJ6go3f8DP4-16H5HN2b7fhB6kzs4taF43fgcKYM7b_HMw4_CvstB2OB4u-dIbK1MDB-1Nr4462smjFJUlD61iBwtq17SXS5WaCVH50-_VsRITUhdFjvi-3LlNZcjX2_Q9OZJ3AgaLv0OrvO9Ic-Kw4slLLJLSd64O5uJS9pyYN7BKExKrnFvs7fny7gLCuka50q7jtmFR5gcxONcuz0rUaRPP2E9rhL-TgKTulOQHjkn97XsbgWKK9yGxNAnDzMLDO-Y6ao=w790-h593-no" height="200" width="auto" /><br><br>Unsheltered. Spiral rack.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/kIFEB1KwZHkB-HOWXLY7l2UtcIillzqJzQ2fo-baajYZwys0dfERpj7horjNbixLkEKYat_Sc79owunwqC1UUpyiZ0mWNRHwSnF0b9ZguVXG5ts6rVx4WB6IDpK5MiURRArEn7485euLghuYeAHS3j-sLuktbqZo2p01PHIE-q4W-ljqQVfLruDSFWJjWjnwwRY-8nmTAo1bbhBT2FJjwRYril_gZ6BIs4FOy_619WOiEuYSSD0vB8v3KspE9_QrN3yFr2XtjJd6dOd_piO6a8a3ulEDoasl7QiAJ6go3f8DP4-16H5HN2b7fhB6kzs4taF43fgcKYM7b_HMw4_CvstB2OB4u-dIbK1MDB-1Nr4462smjFJUlD61iBwtq17SXS5WaCVH50-_VsRITUhdFjvi-3LlNZcjX2_Q9OZJ3AgaLv0OrvO9Ic-Kw4slLLJLSd64O5uJS9pyYN7BKExKrnFvs7fny7gLCuka50q7jtmFR5gcxONcuz0rUaRPP2E9rhL-TgKTulOQHjkn97XsbgWKK9yGxNAnDzMLDO-Y6ao=w790-h593-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.85539450000002,1.2984052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkway Parade, outdoor racks</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=10WERWTmZ-2GxtJ19_Js5-x0P5UQOZ5IOcw" height="200" width="auto" /><br><br>Wheel racks. Sheltered, limited availability. May be difficult to secure with single lock.<br><br><img src="https://lh5.googleusercontent.com/o-S1pTXlcRpiSgCT7bBfe1Z7R4qTf9oALdiVk9uN65SLt3VGNfAg-OXU0WDeNfcFN5VzBI1fNevh=s400" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=10WERWTmZ-2GxtJ19_Js5-x0P5UQOZ5IOcw https://lh5.googleusercontent.com/o-S1pTXlcRpiSgCT7bBfe1Z7R4qTf9oALdiVk9uN65SLt3VGNfAg-OXU0WDeNfcFN5VzBI1fNevh=s400</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9044562,1.3018349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jalan Batu Market, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/imC-lsXO-17xlg2iLnEJ4GjV-a7Y6Eq6tN4-ohryLeazVA_Skcs6tlPnfspYc8b1tFQzz6bOt-le-MODJDYjG6OvJ1bQlXj34awT-Rg4gETvB9t5osW1dBBYWi9hB75_8tLem0NYpb-efptgT1yrzE8odsNwrUCX5WsVt2nkoucPhZn-1Ws9H4iNtBlYbHwd2JOAZbiL0HV9YSB23Taj5Xx26IiRqcEifQ904L6CeBGD0t7VMQCooKGoV3rUZsCWhefRiPkPcQsVSiWqHLieeW2MTudsdfKbaIaIDgk9jeJQvU-lzwUPGm5rsk6t2dWhOFp4TYKKpFSE5oPXIq8yuadbrW96lTRPswKDVom-BX9QDW4gfUEoi37ACvAcI-2bv7-c8Vj8qfo4RP5kPpWnX701VRI0Nx3NBp-VY293tqTyx8VsQ7lYmUK1sUQu10OopCvKG3DLpJWb-_RTLSg-amWo-4y6AzH_I3KYFQ-a9OJbUS4ftOA-_KMOPt_RT1j9T4pSe3bXG2q4vmcpyn3tKbfPN-kSl26e3B3LIfnH8Wc=w936-h702-no" height="200" width="auto" /><br><br>Unsheltered. May be difficult to secure with single lock.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/imC-lsXO-17xlg2iLnEJ4GjV-a7Y6Eq6tN4-ohryLeazVA_Skcs6tlPnfspYc8b1tFQzz6bOt-le-MODJDYjG6OvJ1bQlXj34awT-Rg4gETvB9t5osW1dBBYWi9hB75_8tLem0NYpb-efptgT1yrzE8odsNwrUCX5WsVt2nkoucPhZn-1Ws9H4iNtBlYbHwd2JOAZbiL0HV9YSB23Taj5Xx26IiRqcEifQ904L6CeBGD0t7VMQCooKGoV3rUZsCWhefRiPkPcQsVSiWqHLieeW2MTudsdfKbaIaIDgk9jeJQvU-lzwUPGm5rsk6t2dWhOFp4TYKKpFSE5oPXIq8yuadbrW96lTRPswKDVom-BX9QDW4gfUEoi37ACvAcI-2bv7-c8Vj8qfo4RP5kPpWnX701VRI0Nx3NBp-VY293tqTyx8VsQ7lYmUK1sUQu10OopCvKG3DLpJWb-_RTLSg-amWo-4y6AzH_I3KYFQ-a9OJbUS4ftOA-_KMOPt_RT1j9T4pSe3bXG2q4vmcpyn3tKbfPN-kSl26e3B3LIfnH8Wc=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8840902,1.3024865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flower Dome, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/fFgEzJ6dr2O6JSlQVIDMYevxTBgrXwKKpnix-wMIQo5IKCK8NSNsXydeh9j4K6mK2L2EU-xmPDb1dVFuJctr-HZsZ3BM5q_CHUBgpWmg45B5K2KJKv0AagMnNRxR7183LV4CIZFz_-3T21n54BwBQCjRftd8kXP4Q1_iKao2zMQgAD_Rj_1Jxo1HySY7DROANS9qLERv9xBeSBHQKvet6NiFSOivKlAY1nEP-1aIttGxjVIdbZ1ds_JOO0_rHxXRvIXpXSB0u01EO_KjmcY0PCnAmiUAMyq8Eji1zFKq3fEFy8mjaQ5q5AvbyXy-ZeCJUTPENq9Fu2evZrrhvZYQzrnDGXvtRwhv62A0qla9vNQea9-hNIWBbpmcSTlH2_CxrZDpyMgdaHg8QJhsFfHaTNSQsl7tCr9grvK8NiL0pvlSgbfYNSTrjNWWjh9csoBn8Y35w8sZkzed_bo22T6o60FLN9RhpFfYjA5yPhjh5h5gWj9MYttCtbTLZzQLGr0ZDzkTqK3-BlsgSA_OgldPF9bJgcd3-aoMNBfAngrKr-Q=w894-h671-no" height="200" width="auto" /><br><br>Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/fFgEzJ6dr2O6JSlQVIDMYevxTBgrXwKKpnix-wMIQo5IKCK8NSNsXydeh9j4K6mK2L2EU-xmPDb1dVFuJctr-HZsZ3BM5q_CHUBgpWmg45B5K2KJKv0AagMnNRxR7183LV4CIZFz_-3T21n54BwBQCjRftd8kXP4Q1_iKao2zMQgAD_Rj_1Jxo1HySY7DROANS9qLERv9xBeSBHQKvet6NiFSOivKlAY1nEP-1aIttGxjVIdbZ1ds_JOO0_rHxXRvIXpXSB0u01EO_KjmcY0PCnAmiUAMyq8Eji1zFKq3fEFy8mjaQ5q5AvbyXy-ZeCJUTPENq9Fu2evZrrhvZYQzrnDGXvtRwhv62A0qla9vNQea9-hNIWBbpmcSTlH2_CxrZDpyMgdaHg8QJhsFfHaTNSQsl7tCr9grvK8NiL0pvlSgbfYNSTrjNWWjh9csoBn8Y35w8sZkzed_bo22T6o60FLN9RhpFfYjA5yPhjh5h5gWj9MYttCtbTLZzQLGr0ZDzkTqK3-BlsgSA_OgldPF9bJgcd3-aoMNBfAngrKr-Q=w894-h671-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8653952,1.2845471,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kopitiam Foodcenter</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.86295700000005,1.307895,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Satay by the Bay, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/c-az-z-DLRW7YkRE4PojYLvatQFPa812exVzMMM0KMTwYIfC9WIFQ0c5_vN_HKccjXm3gdaGPJvACLsanSC3N-ZbpX3y5uXostU_ZvyFmV1Cj0EZCC94b6YYLKrtn4Bm4yqvfTgiTMXZ4rsXDz-BLZDV71gAw6GiC0umL7EHS37SzI0fTyMKZZsH-rgkP53KuSt0pyfl12LnDZOEty9I4JSrGzgg4-xTaIC5BKrDIhqtQM6qeKvDxYmufeGik4Gu9UpchPcJg8kcxIcvW26_5yJ9GrwbKIjOfBAqMwKdC4CLt0KdE7AeogMsxwJO79LvM_4X1mUTHYuFQOsifpSttDBRh0PtUDcCWJHzj09w7Ieyc5yYlU5wyTh_wAgQiFC7IotszYgI3sGqdfp8xU6bK30I1im6zDfJYIV4jeKAJ3TNJoj-r8fr_NjzV3oLL4vwZaZX5SQImiINUj595gn9wIsuLLIbWMWM-mqTglgEcE1C2ylSRl0Ir9mRAAsd5G0Q1UFrzuvadhRtnIPwpLJZwJ8BnU4bSI_klJRqrm_nnRA=w894-h671-no" height="200" width="auto" /><br><br>Unsheltered wheel rack, located in outdoor car park. Inconvenient access due to gantries between car park and PCN. Very difficult to secure bike frame due to rack position.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/c-az-z-DLRW7YkRE4PojYLvatQFPa812exVzMMM0KMTwYIfC9WIFQ0c5_vN_HKccjXm3gdaGPJvACLsanSC3N-ZbpX3y5uXostU_ZvyFmV1Cj0EZCC94b6YYLKrtn4Bm4yqvfTgiTMXZ4rsXDz-BLZDV71gAw6GiC0umL7EHS37SzI0fTyMKZZsH-rgkP53KuSt0pyfl12LnDZOEty9I4JSrGzgg4-xTaIC5BKrDIhqtQM6qeKvDxYmufeGik4Gu9UpchPcJg8kcxIcvW26_5yJ9GrwbKIjOfBAqMwKdC4CLt0KdE7AeogMsxwJO79LvM_4X1mUTHYuFQOsifpSttDBRh0PtUDcCWJHzj09w7Ieyc5yYlU5wyTh_wAgQiFC7IotszYgI3sGqdfp8xU6bK30I1im6zDfJYIV4jeKAJ3TNJoj-r8fr_NjzV3oLL4vwZaZX5SQImiINUj595gn9wIsuLLIbWMWM-mqTglgEcE1C2ylSRl0Ir9mRAAsd5G0Q1UFrzuvadhRtnIPwpLJZwJ8BnU4bSI_klJRqrm_nnRA=w894-h671-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8691865,1.2822651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kallang MRT</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8713239,1.3112598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Suntec City, outdoor rack</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/CaroRTmRpQoQnNDaMos44o3Hr-wwZ9z9qovhUYsNLS0ohzKL9_88qJhfkYtvVgEZB2me3sVrWFBWwATA0EIenlvjyjBHQ5Xa7FQaIJRvz4TywkS-50gKiEfSFnTA6kkCbdWSUlJInyzsikjzIDkxDqGB--ulof42LgXCZkN4mPPkk0_2sYPvPRuJFEOkcxfLGUblDd8wawY-tQYgLSPjkNJCUlssLfGG83F2s0V22iWbX14hUX46T3hH-LuH_KdD7FcyVRY4bl_nF5xnfDVL-b1gyj_Djz-gaUS9lcmyyxgbZd13qKBx3mE85mvVWlyyFY-eHrmi4BM3rtMNf9A93FGO-fXLSDwxIeNzeJ9frMYilLXKAGeWLQBpDJmc5otJ5Wpki4uaNoOtO3YEzW4TT0QjhwxWBFJ7SztzU266fgvm-KRE2Wh3kPkclKS8K1GbUYizPMth4O_6vuLLoRJIQ_uiOCw989NMP_kUY7jHuPGNnzxrLHDVPDMuBYOD7qvawgk22OF8cKPOQYJLDOl-9jtLiKP-Y9R_kDoz5iF1xN4=w936-h702-no" height="200" width="auto" /><br><br>Open racks near Suntec Carpark E entrance, somewhat sheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/CaroRTmRpQoQnNDaMos44o3Hr-wwZ9z9qovhUYsNLS0ohzKL9_88qJhfkYtvVgEZB2me3sVrWFBWwATA0EIenlvjyjBHQ5Xa7FQaIJRvz4TywkS-50gKiEfSFnTA6kkCbdWSUlJInyzsikjzIDkxDqGB--ulof42LgXCZkN4mPPkk0_2sYPvPRuJFEOkcxfLGUblDd8wawY-tQYgLSPjkNJCUlssLfGG83F2s0V22iWbX14hUX46T3hH-LuH_KdD7FcyVRY4bl_nF5xnfDVL-b1gyj_Djz-gaUS9lcmyyxgbZd13qKBx3mE85mvVWlyyFY-eHrmi4BM3rtMNf9A93FGO-fXLSDwxIeNzeJ9frMYilLXKAGeWLQBpDJmc5otJ5Wpki4uaNoOtO3YEzW4TT0QjhwxWBFJ7SztzU266fgvm-KRE2Wh3kPkclKS8K1GbUYizPMth4O_6vuLLoRJIQ_uiOCw989NMP_kUY7jHuPGNnzxrLHDVPDMuBYOD7qvawgk22OF8cKPOQYJLDOl-9jtLiKP-Y9R_kDoz5iF1xN4=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8575229,1.2950265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Outdoor racks</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8669053,1.3039158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Suntec City, outdoor rack</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/cyrs5B0-DTIIpbAFnXz1LGpDFMFSM8eDwiuFGjdw0KwQk-3aeEKQm8ecCXvcuV9UgAURYIH39sI9YZX6-KmZ9qRuyjyb6xmrg5za8aFVqPDG9WGGWdd0HhV59qtWvEv2gGfZdqC5P2ax9VbvxftC10d3-YMLnADZ-UNUPv6ehFDyNLvlWe_H0zKoWQpcRQriA-mobR_g7piFFjUwLQRytjsxMDLJPMVUa5bpEM7OREwp0eTzyT15zBS46e_ZuoCuKzNgIIqvNubwD9qjr1CZGsPQ-D2d6pS-nLrCcMPBq_S67YSw9XUfCEaDfoBVs0Sllf_CYPghPS--SjEUrQ6ukCjtKwCRF__MWppln9MwdBmPX_Ki2ubckuMP81jMs0evQeyx-8BwJGLHLOmQw2qiInCW_kcLXFx2gqd_4JjxUw3yHilGZZ815xoi6qtMOP-cVaIOLk39E3ERoStciTWAZ1nYV193X3nDGABQCf_Sb3c6SM1WLjmp_ZOw8s3ELxEJvDzhT51FOIRwyTpPtdksF7sNRMsVNO9iy7kxShzct5Y=w936-h702-no" height="200" width="auto" /><br><br>Open racks, unsheltered. Near smoking area.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/cyrs5B0-DTIIpbAFnXz1LGpDFMFSM8eDwiuFGjdw0KwQk-3aeEKQm8ecCXvcuV9UgAURYIH39sI9YZX6-KmZ9qRuyjyb6xmrg5za8aFVqPDG9WGGWdd0HhV59qtWvEv2gGfZdqC5P2ax9VbvxftC10d3-YMLnADZ-UNUPv6ehFDyNLvlWe_H0zKoWQpcRQriA-mobR_g7piFFjUwLQRytjsxMDLJPMVUa5bpEM7OREwp0eTzyT15zBS46e_ZuoCuKzNgIIqvNubwD9qjr1CZGsPQ-D2d6pS-nLrCcMPBq_S67YSw9XUfCEaDfoBVs0Sllf_CYPghPS--SjEUrQ6ukCjtKwCRF__MWppln9MwdBmPX_Ki2ubckuMP81jMs0evQeyx-8BwJGLHLOmQw2qiInCW_kcLXFx2gqd_4JjxUw3yHilGZZ815xoi6qtMOP-cVaIOLk39E3ERoStciTWAZ1nYV193X3nDGABQCf_Sb3c6SM1WLjmp_ZOw8s3ELxEJvDzhT51FOIRwyTpPtdksF7sNRMsVNO9iy7kxShzct5Y=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8572547,1.2945492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Suntec City, B1 carpark (enter from Entrance E)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/7W5wVguvwgFZ6SQy3rbTFyAf4MUYzV4zyuIDBVR-QMnHNS5RqNFhC_80GeLuQDLk6POqyWd4E1JKIbwp5DvqXOuXTIyiEHeOas_gsm6wKA-U0aY4UScrHNlhctglM1X5n1IGInBC6lurfhQYmce8la7AaH_6Ts63WeiX5TK6a48FlhHt_ajTar73IwUb7l6dLiIAu4TqbySnSvXeBrZO0m42CNMziPY1_bpvrN6d9t7MtHAweVc1mRs1Vn9v_3iMwLADcdMeHAmKMh16TDqHn04aHZtFVMP6LpezBJpJ2F5ThIuAvX_rZj16gWDhltpjFFW43m8BmS1Yon2AlZgcb1UDyamvx1K5vEfEdQaRO3tnU4CMWMTq8zVTVZUZ1nDzV_xLmajUKK7hXV-e7Ma9664gdXA2Bif542dv_N6YLDFUJs-NeaAxOFH2EITazwMzhQUzwdSAgpVqM_mSm0lJigtnr0hGflXvbgjepk6R47Iq-8VENeoAySzWcxGUZQNIphokjdoR2FVLa_Dsod9PQNrylhf-TpfaF0qLk_XFc8A=w790-h593-no" height="200" width="auto" /><br><br>Wheel racks for 8 bicycles at B1 near carpark entrance E. May be difficult to secure with a single lock.<br><br><img src="https://lh3.googleusercontent.com/IUsyXUNAQUItjH4acmY6ZKokUFIrLeGynW9KytkLfWqTZFq-7LwSp_gI9NRhyE5ASu3MpOfpMr7f4GxJnOWhg0-3bd0J19pPN8JfDdBCKqu3TbRR8bJRKcwWS6Vp963T-EB0v1r5_CFZ7ZgBsvv2xeAD3rMZgjr2t3trrQhFIKI9YVk7GW7Y1lfAKa6vSq84BYCQoQJr0-cVE70RYMY_ZDUiV9t_M8qYKY1weByzBzZPILrzYMJzW_5OJgr7A1ahlmtrMrKr3b_e9yfeJ3887X6H751rcwjykWZE2MLNDGaNqe3g0nGBEfjVHKrhRuu8HVCFMljRJHTO6CToER_pTn0bSuhgdq_Ywt6EyxusxbPB4wO2gMxsdtEEj9Q5t11cdnhhZnbiPD_QazLO3Y0jqkRkV-EE9KAHfhHYy_cDC1klQQKbtRCOz3m8q6XRCnwx2deUsgeVQUDO_ofGbKJJ59GI8GLQDtnERCnIg1_ULOHaun4iSKTf9aCFcLUmqxP9yUqipLvv-Coi5bWpUqs1xPc00D3QTgGCxfMc65hko8E=w790-h487-no" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/7W5wVguvwgFZ6SQy3rbTFyAf4MUYzV4zyuIDBVR-QMnHNS5RqNFhC_80GeLuQDLk6POqyWd4E1JKIbwp5DvqXOuXTIyiEHeOas_gsm6wKA-U0aY4UScrHNlhctglM1X5n1IGInBC6lurfhQYmce8la7AaH_6Ts63WeiX5TK6a48FlhHt_ajTar73IwUb7l6dLiIAu4TqbySnSvXeBrZO0m42CNMziPY1_bpvrN6d9t7MtHAweVc1mRs1Vn9v_3iMwLADcdMeHAmKMh16TDqHn04aHZtFVMP6LpezBJpJ2F5ThIuAvX_rZj16gWDhltpjFFW43m8BmS1Yon2AlZgcb1UDyamvx1K5vEfEdQaRO3tnU4CMWMTq8zVTVZUZ1nDzV_xLmajUKK7hXV-e7Ma9664gdXA2Bif542dv_N6YLDFUJs-NeaAxOFH2EITazwMzhQUzwdSAgpVqM_mSm0lJigtnr0hGflXvbgjepk6R47Iq-8VENeoAySzWcxGUZQNIphokjdoR2FVLa_Dsod9PQNrylhf-TpfaF0qLk_XFc8A=w790-h593-no https://lh3.googleusercontent.com/IUsyXUNAQUItjH4acmY6ZKokUFIrLeGynW9KytkLfWqTZFq-7LwSp_gI9NRhyE5ASu3MpOfpMr7f4GxJnOWhg0-3bd0J19pPN8JfDdBCKqu3TbRR8bJRKcwWS6Vp963T-EB0v1r5_CFZ7ZgBsvv2xeAD3rMZgjr2t3trrQhFIKI9YVk7GW7Y1lfAKa6vSq84BYCQoQJr0-cVE70RYMY_ZDUiV9t_M8qYKY1weByzBzZPILrzYMJzW_5OJgr7A1ahlmtrMrKr3b_e9yfeJ3887X6H751rcwjykWZE2MLNDGaNqe3g0nGBEfjVHKrhRuu8HVCFMljRJHTO6CToER_pTn0bSuhgdq_Ywt6EyxusxbPB4wO2gMxsdtEEj9Q5t11cdnhhZnbiPD_QazLO3Y0jqkRkV-EE9KAHfhHYy_cDC1klQQKbtRCOz3m8q6XRCnwx2deUsgeVQUDO_ofGbKJJ59GI8GLQDtnERCnIg1_ULOHaun4iSKTf9aCFcLUmqxP9yUqipLvv-Coi5bWpUqs1xPc00D3QTgGCxfMc65hko8E=w790-h487-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8575551,1.2945519,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nicoll Highway MRT, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/hKHKBJoLIWzAmoLamz5Sgmaj7fY3Av0rvOEdBW7OaVQb1FD7X6BhYPmQaU4AXt1oi0rcL8eVjlNIRsRXhkbbSLITQ3AL6U0BMoAnc1D4pNWCP9wKR72BSxa9XB4rcpSXCCjSTGUtkyw1YpMgCajs2GRasaksBJrZzBjy6ZABpNiJO1X6-TXzqCfurX3Hk4XgRXxttZMY2hgNaMVU366ygOdeLoWqgmgyaupkSeLLwZM1zVkfxD93wpFxuYAYulJg-wV4DEB5efJZHE_aYZKzuJ0tnwyVn-LnZgD14gqmygpzG9xmQbckF48Z1RQceodN_Zpm_Q_X9hEFZPoMh0xXxM7M5E1pdFS9S2ToT4i3O-oZ6Fqp1vq7QWlQ3dbechSVEl3BwnAW1AJxIBCWy1-7PhAbA-sFx5lusF4VWULvTzbniHljDgAGFdZLHWyoGksg-jUBj1h1PDC5TGiTSYtJH7Q5Mcyg33frGxZXRsHh2JqCPyJQnMG5uh-ZJvam89t_8LnmRIVwnlCRkXhnmosciknsJqAmX_nrONMieJUO-6c=w936-h702-no" height="200" width="auto" /><br><br>Unsheltered. May be difficult to secure with single lock.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/hKHKBJoLIWzAmoLamz5Sgmaj7fY3Av0rvOEdBW7OaVQb1FD7X6BhYPmQaU4AXt1oi0rcL8eVjlNIRsRXhkbbSLITQ3AL6U0BMoAnc1D4pNWCP9wKR72BSxa9XB4rcpSXCCjSTGUtkyw1YpMgCajs2GRasaksBJrZzBjy6ZABpNiJO1X6-TXzqCfurX3Hk4XgRXxttZMY2hgNaMVU366ygOdeLoWqgmgyaupkSeLLwZM1zVkfxD93wpFxuYAYulJg-wV4DEB5efJZHE_aYZKzuJ0tnwyVn-LnZgD14gqmygpzG9xmQbckF48Z1RQceodN_Zpm_Q_X9hEFZPoMh0xXxM7M5E1pdFS9S2ToT4i3O-oZ6Fqp1vq7QWlQ3dbechSVEl3BwnAW1AJxIBCWy1-7PhAbA-sFx5lusF4VWULvTzbniHljDgAGFdZLHWyoGksg-jUBj1h1PDC5TGiTSYtJH7Q5Mcyg33frGxZXRsHh2JqCPyJQnMG5uh-ZJvam89t_8LnmRIVwnlCRkXhnmosciknsJqAmX_nrONMieJUO-6c=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.863472,1.3003359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bugis Junction along North Bridge Rd, outdoor racks</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/xDvNw8FYjXENv022yqwmFJDQBCigrj71_LhAL6IcfueFnzR0TfA7kNiSBmapkWGq7ukVrDvwLdnAJO7FIsu31Co07bUjs_83Oj3lSdw49kXghyoSxuz2InGGbZsliwPEFq_lW92rBEaKv3ta4Rybc3fdIujCnOkadI8N8o77PXxNnkuwTcqxD0gPuq6sMDO8t9pCy68pHlFUCmgsUlQOOubaxqwkU2yDRP-WG_Aa8XAV2DDyWtoVOctKkY2aDXdXXyTz8GQ8QBq-0uEN9fU6qYF48YUOCj06SHfu644C1vZs0U_26_qykPjeha-gEgd99twtgkmYLJrbJp317BXSNYcorNQG14z00vHJJE4xLykTS6lIC4ycTLz7PFZrV0Aa-uXkRZ9IQV-uyH1l3B1ZO4Gcex__JCSV_ABMCheJffDOhl9lfKoMw0enKzC2g_rUSIlMpHsa9ZdPoILVjJgWOXQgQyZSK7t3wW9JQuEG7LnvmRTnKTXfQoBl228hjZWxuIVzxE34WDumxWCzZWFqj9InvVl9ONamWfnzZStLit4=w936-h702-no" height="200" width="auto" /><br><br>Spiral rack, near the ERP gantry. Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/xDvNw8FYjXENv022yqwmFJDQBCigrj71_LhAL6IcfueFnzR0TfA7kNiSBmapkWGq7ukVrDvwLdnAJO7FIsu31Co07bUjs_83Oj3lSdw49kXghyoSxuz2InGGbZsliwPEFq_lW92rBEaKv3ta4Rybc3fdIujCnOkadI8N8o77PXxNnkuwTcqxD0gPuq6sMDO8t9pCy68pHlFUCmgsUlQOOubaxqwkU2yDRP-WG_Aa8XAV2DDyWtoVOctKkY2aDXdXXyTz8GQ8QBq-0uEN9fU6qYF48YUOCj06SHfu644C1vZs0U_26_qykPjeha-gEgd99twtgkmYLJrbJp317BXSNYcorNQG14z00vHJJE4xLykTS6lIC4ycTLz7PFZrV0Aa-uXkRZ9IQV-uyH1l3B1ZO4Gcex__JCSV_ABMCheJffDOhl9lfKoMw0enKzC2g_rUSIlMpHsa9ZdPoILVjJgWOXQgQyZSK7t3wW9JQuEG7LnvmRTnKTXfQoBl228hjZWxuIVzxE34WDumxWCzZWFqj9InvVl9ONamWfnzZStLit4=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.856391,1.2996334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bugis Junction along Victoria St, outdoor rack</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/C83bZe9H9U8BlJxRZZLzrSMf1Izr6vu-I5AYfEOz9N62ZvTc4VhTRmEoH0fxpVcKOo8utdyTqd5JP4jDIKDBd-ZzeboYyRIgLY-DwvXEhpggBKdHxRoC0r3ucYkEJil9DA0Wyvv488-Sixa5CxuaMuSPOT_tBqfi_-pAyaIKuMnP-JUo3nNViDC6LClD7UQYUv__qdBOFpghuwMzgG-EqvMgeRtc6dHg6znmgmK9YC70tccEPTCNgSIDi8pnfbj9l6hwfPAdj2V0hQ9x5pJSbeMIgi1wF2cvlrJWYSN5crxA8QRmv39uSLMFTP9Qb9fmj4iLtgsbv7lGR9pVmQqc_RgQ7WBog7ixXZ_UF6N8tW0xrdmx47he3RaQVIIJZpSMRhJxGlPxjA7ICFo_o6fJ9Ou-qaAtHGMK36o9gZNsE_tv4xedXE59JtPMqcwGVkR9lIA0CD0K7tpRO_CVAcauoWRZwE9D5k0BxBPfhI5uNtzJUHnhtnAWtAJ4l1RoQzIlYJ2tR86sY2UHWRn7BVxxyIYEGAhIyqrs7U7Il4nuifs=w936-h702-no" height="200" width="auto" /><br><br>Spiral rack. Unsheltered. Often crowded.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/C83bZe9H9U8BlJxRZZLzrSMf1Izr6vu-I5AYfEOz9N62ZvTc4VhTRmEoH0fxpVcKOo8utdyTqd5JP4jDIKDBd-ZzeboYyRIgLY-DwvXEhpggBKdHxRoC0r3ucYkEJil9DA0Wyvv488-Sixa5CxuaMuSPOT_tBqfi_-pAyaIKuMnP-JUo3nNViDC6LClD7UQYUv__qdBOFpghuwMzgG-EqvMgeRtc6dHg6znmgmK9YC70tccEPTCNgSIDi8pnfbj9l6hwfPAdj2V0hQ9x5pJSbeMIgi1wF2cvlrJWYSN5crxA8QRmv39uSLMFTP9Qb9fmj4iLtgsbv7lGR9pVmQqc_RgQ7WBog7ixXZ_UF6N8tW0xrdmx47he3RaQVIIJZpSMRhJxGlPxjA7ICFo_o6fJ9Ou-qaAtHGMK36o9gZNsE_tv4xedXE59JtPMqcwGVkR9lIA0CD0K7tpRO_CVAcauoWRZwE9D5k0BxBPfhI5uNtzJUHnhtnAWtAJ4l1RoQzIlYJ2tR86sY2UHWRn7BVxxyIYEGAhIyqrs7U7Il4nuifs=w936-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8551921,1.2995932,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punggol Promenade Riverside Walk</name>
+				<description><![CDATA[<img src="https://photos-5.dropbox.com/t/2/AADHvFpWdcJf4pGRDUAGCjNuU23jlRO8ModODP4i7-4awQ/12/103946/jpeg/32x32/1/1445025600/0/2/2015-10-16%2022.18.03.jpg/CIqsBiABIAIgAyAFIAcoASgCKAc/5yNAmfrVJQ0whjGE3LjeZFiLmeFpsajkJd1EU7deIj0?size=1280x960&size_mode=2" height="200" width="auto" /><br><br>Outdoor racks]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://photos-5.dropbox.com/t/2/AADHvFpWdcJf4pGRDUAGCjNuU23jlRO8ModODP4i7-4awQ/12/103946/jpeg/32x32/1/1445025600/0/2/2015-10-16%2022.18.03.jpg/CIqsBiABIAIgAyAFIAcoASgCKAc/5yNAmfrVJQ0whjGE3LjeZFiLmeFpsajkJd1EU7deIj0?size=1280x960&amp;size_mode=2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.91598700000002,1.3910071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>807 King George's Ave</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.86125700000002,1.3093870000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asia Square Tower 1</name>
+				<description><![CDATA[<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/10655246_10152475393408494_6147009795465344539_o.jpg" height="200" width="auto" /><br><br>Carpark level 4. Indoor cage. Showers locked.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/10655246_10152475393408494_6147009795465344539_o.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.85135519999994,1.2790766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Singapore Management University-Li Ka Shing Library</name>
+				<description><![CDATA[Level 1 outdoor rack.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.84988599999997,1.296661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanjong Pagar MRT</name>
+				<description><![CDATA[Outdoor rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8451391,1.2764810000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>City Square Mall</name>
+				<description><![CDATA[Outdoor rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8563615,1.3110674,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>86 Marine Parade Central, beneath outdoor staircase</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=1lHzfsOPePKpYhGQZ7XZryhKxpMQZEdiTVA" height="200" width="auto" /><br><br>Wheel racks; some loops broken. Somewhat sheltered by starcase.<br><br><img src="http://drive.google.com/uc?export=view&id=1Q1Oaf9IYJk3iVFdQHPUQUaefNs8p-uBGQA" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=1lHzfsOPePKpYhGQZ7XZryhKxpMQZEdiTVA http://drive.google.com/uc?export=view&amp;id=1Q1Oaf9IYJk3iVFdQHPUQUaefNs8p-uBGQA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9070177,1.3018483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>86 Marine Parade Central, outdoor rack near MSCP</name>
+				<description><![CDATA[<img src="http://drive.google.com/uc?export=view&id=13y6sR7blk93U2UmBGS0PMNtnx7nDaLyNyA" height="200" width="auto" /><br><br>Wheel racks. Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://drive.google.com/uc?export=view&amp;id=13y6sR7blk93U2UmBGS0PMNtnx7nDaLyNyA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.90659120000001,1.3014407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6 Marine Parade Central, near NTUC</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/ouOaly_Lk6aLuuGt0MMBZa6plnDN15bM_a6yCWqcMVt3utdeGo0Qi6Rfy6WRYUfUQm55eTEHsh_2=s400" height="200" width="auto" /><br><br>Wheel racks. Rarely used; most bicycles chained to other railings closer to NTUC entrance instead.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/ouOaly_Lk6aLuuGt0MMBZa6plnDN15bM_a6yCWqcMVt3utdeGo0Qi6Rfy6WRYUfUQm55eTEHsh_2=s400</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9074039,1.3016338,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khatib MRT</name>
+				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8331202,1.4179767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khatib MRT</name>
+				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8326856,1.4172098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khatib MRT</name>
+				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.832868,1.4175691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 849, besides traffic lights</name>
+				<description><![CDATA[Unsheltered]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.835329,1.4172165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 849, outside NTUC Fairprice</name>
+				<description><![CDATA[Sheltered]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8352284,1.4172098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAFRA Yishun, 2nd level</name>
+				<description><![CDATA[2nd level next to tennis courts, direct access from Yishun Park]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8411883,1.4243155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAFRA Yishun</name>
+				<description><![CDATA[Indoors, inside carpark near entrance into SAFRA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8409925,1.4238167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khoo Teck Puat Hospital </name>
+				<description><![CDATA[Sheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8387528,1.4239052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun Polyclinic</name>
+				<description><![CDATA[Unsheltered, near carpark entrane ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.83824050000001,1.4268306,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun Temp Bus Interchange</name>
+				<description><![CDATA[Sheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8379294,1.4284663,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun Temp Bus Interchange</name>
+				<description><![CDATA[Sheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8372535,1.4299625,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Junction of Yishun Ave 2 and 5</name>
+				<description><![CDATA[Sheltered, always crowded]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8350326,1.4307079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Before Yishun MRT</name>
+				<description><![CDATA[Sheltered, always crowded]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8349897,1.4286003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun MRT</name>
+				<description><![CDATA[Unsheltered ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8348556,1.4301448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun MRT</name>
+				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8348019,1.4290347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 291</name>
+				<description><![CDATA[Sheltered]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8365373,1.4357274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 293</name>
+				<description><![CDATA[2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8373393,1.4363441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Orchid Country Club</name>
+				<description><![CDATA[Inside covered carpark after NTUC Fairprice]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8429987,1.4111981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 926</name>
+				<description><![CDATA[Unsheltered, outside POSB ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.83780330000002,1.4280278,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Library Building, corridor facing middle road</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/zDysyzTVsKnEReED5wpAF0cOg0ZC0koD48FG42RbBERqrmi87QN9kNS6tKBp1OPL-uzEJ8J93Za5644T6TNoRNlWdGyfmHn-lUR41YcHMSL6yObGaIblPP96k1FbXI8JeubqDxTclWeNrGTQVSEqlc9ehSf97W190ij_YHKjH1-LHfr_0eaSccHRFg6nqjGhi80dvs1dx3MfVNwwJ7JZDyKWLt_BNEj212VVyKD4YO3xcNe_kb0yB5kJ5wKmpk668xnAUls_H2rGxupWApL-EsSGukkeMcxpFp4OX6hpbWHU6SxFUfAuoezt7MycxmTZsApZ6PVbF9GoyX4_SEDOnugywt3rIhRMTWBuUkyUdd7W4lmNK3MnLmK4cZEGwfqd9o1xUZPulh3WpdmhXJCbH7GFOygeSCp6YBpdopKahRl2idAT_E43iU_B9pzXQZgGCMnRSbVmltE0hg7aUz5OFlZ5fe4hKQlH7r2bRjGqzOwsGb8ikcHBpQSlQMxEov761c20ubLOfzc1bKaiINCiC0xEfA4aZzFg2DeWDXkImhU=w790-h593-no" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="https://lh3.googleusercontent.com/CGAfTDrZyxeutYyaDIvPKjUkuxdWF6PkdThtlL0XU_LmwGmmUibbTZOVycI_jOCYsEihGR5TsfBbZ8aFujwTy0ZDILLeqexTsiDZ7W6Wu8vB6e3hI5eHJ3wLqrryKTS0E8xCS3CWpOd9np9inHFtesV3INVF2PYrfG2DkvoHiEY8DZzZHpf4Jcastt2OiQdMEPr4sQX1S0H4WWRCbd0gEwfAqIEWqM-SbT3m7IvwHS9WmbxJM1RQZUMSdlOvIGItfCEjb369ydk6gT237iYaWJ9oSBFHn8s3QfCxWuNBbM9gM8W8yGWyKEjGuc2Db79S4vDZ5LfWmYWEh-NTeQcxu7AbNPciHAKmdoay0NApMMKG7QqWS7Zb_ZUVMXRmH9a5khMdNjvRwiIU9bkHC-voUb71Z9Bvk3Ne9s_T9uKfFApJ34NLT92DacMKjFsRUhAZj2vbnaFcDP1rxZH9b9sOOZT-bWj5dLZXCG_tYt7FD0rHGSfXv2Fa3KQvcNtoq9WU4Qb3pf1N1rjWnfXn87qYpd4QPt5YsHLQE12m0H3bBLU=w790-h593-no" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/zDysyzTVsKnEReED5wpAF0cOg0ZC0koD48FG42RbBERqrmi87QN9kNS6tKBp1OPL-uzEJ8J93Za5644T6TNoRNlWdGyfmHn-lUR41YcHMSL6yObGaIblPP96k1FbXI8JeubqDxTclWeNrGTQVSEqlc9ehSf97W190ij_YHKjH1-LHfr_0eaSccHRFg6nqjGhi80dvs1dx3MfVNwwJ7JZDyKWLt_BNEj212VVyKD4YO3xcNe_kb0yB5kJ5wKmpk668xnAUls_H2rGxupWApL-EsSGukkeMcxpFp4OX6hpbWHU6SxFUfAuoezt7MycxmTZsApZ6PVbF9GoyX4_SEDOnugywt3rIhRMTWBuUkyUdd7W4lmNK3MnLmK4cZEGwfqd9o1xUZPulh3WpdmhXJCbH7GFOygeSCp6YBpdopKahRl2idAT_E43iU_B9pzXQZgGCMnRSbVmltE0hg7aUz5OFlZ5fe4hKQlH7r2bRjGqzOwsGb8ikcHBpQSlQMxEov761c20ubLOfzc1bKaiINCiC0xEfA4aZzFg2DeWDXkImhU=w790-h593-no https://lh3.googleusercontent.com/CGAfTDrZyxeutYyaDIvPKjUkuxdWF6PkdThtlL0XU_LmwGmmUibbTZOVycI_jOCYsEihGR5TsfBbZ8aFujwTy0ZDILLeqexTsiDZ7W6Wu8vB6e3hI5eHJ3wLqrryKTS0E8xCS3CWpOd9np9inHFtesV3INVF2PYrfG2DkvoHiEY8DZzZHpf4Jcastt2OiQdMEPr4sQX1S0H4WWRCbd0gEwfAqIEWqM-SbT3m7IvwHS9WmbxJM1RQZUMSdlOvIGItfCEjb369ydk6gT237iYaWJ9oSBFHn8s3QfCxWuNBbM9gM8W8yGWyKEjGuc2Db79S4vDZ5LfWmYWEh-NTeQcxu7AbNPciHAKmdoay0NApMMKG7QqWS7Zb_ZUVMXRmH9a5khMdNjvRwiIU9bkHC-voUb71Z9Bvk3Ne9s_T9uKfFApJ34NLT92DacMKjFsRUhAZj2vbnaFcDP1rxZH9b9sOOZT-bWj5dLZXCG_tYt7FD0rHGSfXv2Fa3KQvcNtoq9WU4Qb3pf1N1rjWnfXn87qYpd4QPt5YsHLQE12m0H3bBLU=w790-h593-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8543713,1.2979092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Library Building, corridor facing North Bridge Rd</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/z7o0F-s47sRb6pDbiXmizjIVRVBkQ6RQa8GaLpzj4e0b6YDKnjTUzje0VRiQSPjjE3OMQnSbq15VOXhYttkGl5IRN5YHd-0hacydKVEHhFYAXpAvTru0t3cLEk5KrROrm-PP2DXdJDSFok3UduQQrYCyOCBz2iIqwag9nClFlo2JuNQ9j5qE9o_fbDMtxhz3nMJi_MX4zXj3rbGrRraDsAuuAuuaT6mch_pNGmMZQLh5bAD8Gq8CrYwxuoyw8yLVkOc3Lydz16cgykvRePNU0cbLybME8irUREyjqxnlu7ji1zGd70xeom9_S-385qXGUEV31ZJTN8VbVbbGWAYdExSzXg6tPUDfwEmsJFHF66tZaQC1rX8JfPeFqC9xtymXj5gbH5h-ODERpMw07MbMJLjAoQZsLLaRNrfKjF4jLOV6oxF6ee8Rzem318SCP-8WPGROK6EsbRjiKHYL_z2Iw8dCf1SnsGF4IHOlAv_j2M9kPTmySMFAoX6MDnpw6P0sncYQhxoq56hUWTI1RLOa-LM0Sw1bc2eAmAb2KqA8r4k=w790-h593-no" height="200" width="auto" /><br><br>Sheltered. Designated bicycle bay with straight wheel racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/z7o0F-s47sRb6pDbiXmizjIVRVBkQ6RQa8GaLpzj4e0b6YDKnjTUzje0VRiQSPjjE3OMQnSbq15VOXhYttkGl5IRN5YHd-0hacydKVEHhFYAXpAvTru0t3cLEk5KrROrm-PP2DXdJDSFok3UduQQrYCyOCBz2iIqwag9nClFlo2JuNQ9j5qE9o_fbDMtxhz3nMJi_MX4zXj3rbGrRraDsAuuAuuaT6mch_pNGmMZQLh5bAD8Gq8CrYwxuoyw8yLVkOc3Lydz16cgykvRePNU0cbLybME8irUREyjqxnlu7ji1zGd70xeom9_S-385qXGUEV31ZJTN8VbVbbGWAYdExSzXg6tPUDfwEmsJFHF66tZaQC1rX8JfPeFqC9xtymXj5gbH5h-ODERpMw07MbMJLjAoQZsLLaRNrfKjF4jLOV6oxF6ee8Rzem318SCP-8WPGROK6EsbRjiKHYL_z2Iw8dCf1SnsGF4IHOlAv_j2M9kPTmySMFAoX6MDnpw6P0sncYQhxoq56hUWTI1RLOa-LM0Sw1bc2eAmAb2KqA8r4k=w790-h593-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8546771,1.2975364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Library Building, outdoor racks along walkway facing Bain St</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/NJqmK83Rh0iJ0QNzrzTmip-rxrh7ArDR-4SzaRRPMk91Mi-mPUx4QeH31eXgZwBLAPkR7EoS780ZP_qqBZIZ5JXJlGsbtizguuToA8exO35_9ylzH-T0Z4rY4s_a9xnbUyKnDL_BH6GyVfMEWY5YJe5hzhxGHmRMt4EIAw_feWVPuNOmK6V9fOzVgl_KR01gvwC8GcWc7-k7teFuecoVp0EAipIFsD0HzgHDq3KPfmutvV_P-VvN-CKQw87L2GGWUDwlTP4lIQoh89DOXhiDIVZtgNe3Na_GTEXWditgHc8tt4XhY8bqNSjtYiEpjKJhIOAJIN1mLY0J8zVBJy85jhDsnrEel5YWG7nsyldKVMSAiIQS8E7KMzlrUvfiypdHwWmvlOnLfNwndU3_DbnPARexNBOgv7EPKBoZ_jOX3-pTrr15GX0TaEzl9GrIdxmy3YKz7kjCdVmwGD3RD4v5YfM2PHAOtt4CnkLMBO5I4pgkGgnly-UTQWGXSZ8d_wPmAu30qhFEcC84JI98xWrXkscwuu0ItNgAg7vZ3UmIWek=w790-h593-no" height="200" width="auto" /><br><br>Unsheltered. Designated bicycle bays with slanted wheel racks.<br><br><img src="https://lh3.googleusercontent.com/bBU7iDAdo5WoY8j9C2uyWtvkypW4LwUHLyIibVruWKzk410dJJVgqxLNHflHOOGoTe9JBBIXYUVN_lev-ku7FKa3Fon_dhSLNJ3NxClCfJEofHpVjQL7s79Ua9FY4C9oRXcPxtUtGGcoZSycA78VaKpWitsZrGwoRVGqK_Ur2fLwrNEG2nKI6_gkJXZlxH3Obhw2rXRVwUSMyRGmvcy701UXSwIypSMCgxG9F1q_v0j0qKe3TnIOkLUj7PqVFEUcACPC4Jo9WhC9D5iC0g7bc9afPoQBbFO2CGIJ8CLQX-UOs4HfgVWvUDzs1PfrwcHX1AF5RProPECUaCA_lHb21_pbjokPghFVlAZd70OFeIz-jg5Xa8-DwOtqV9JsiVfyDZ2vvaGcE0hfq-9RW0ylGE6ee1tuZ1T_csofCUhmcbX35K_wmcB2qjRajTtei2ckq7rUWKNe8Irhs0BLthqH1W2Bir1NUJySI7rzB-Nav0LZjHEjlGuafgI1FuZRoIrXQf7JZqLM6LPfhRIYDmyQE_CnFt1pt4qTo8WFxKUKKtc=w527-h702-no" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/NJqmK83Rh0iJ0QNzrzTmip-rxrh7ArDR-4SzaRRPMk91Mi-mPUx4QeH31eXgZwBLAPkR7EoS780ZP_qqBZIZ5JXJlGsbtizguuToA8exO35_9ylzH-T0Z4rY4s_a9xnbUyKnDL_BH6GyVfMEWY5YJe5hzhxGHmRMt4EIAw_feWVPuNOmK6V9fOzVgl_KR01gvwC8GcWc7-k7teFuecoVp0EAipIFsD0HzgHDq3KPfmutvV_P-VvN-CKQw87L2GGWUDwlTP4lIQoh89DOXhiDIVZtgNe3Na_GTEXWditgHc8tt4XhY8bqNSjtYiEpjKJhIOAJIN1mLY0J8zVBJy85jhDsnrEel5YWG7nsyldKVMSAiIQS8E7KMzlrUvfiypdHwWmvlOnLfNwndU3_DbnPARexNBOgv7EPKBoZ_jOX3-pTrr15GX0TaEzl9GrIdxmy3YKz7kjCdVmwGD3RD4v5YfM2PHAOtt4CnkLMBO5I4pgkGgnly-UTQWGXSZ8d_wPmAu30qhFEcC84JI98xWrXkscwuu0ItNgAg7vZ3UmIWek=w790-h593-no https://lh3.googleusercontent.com/bBU7iDAdo5WoY8j9C2uyWtvkypW4LwUHLyIibVruWKzk410dJJVgqxLNHflHOOGoTe9JBBIXYUVN_lev-ku7FKa3Fon_dhSLNJ3NxClCfJEofHpVjQL7s79Ua9FY4C9oRXcPxtUtGGcoZSycA78VaKpWitsZrGwoRVGqK_Ur2fLwrNEG2nKI6_gkJXZlxH3Obhw2rXRVwUSMyRGmvcy701UXSwIypSMCgxG9F1q_v0j0qKe3TnIOkLUj7PqVFEUcACPC4Jo9WhC9D5iC0g7bc9afPoQBbFO2CGIJ8CLQX-UOs4HfgVWvUDzs1PfrwcHX1AF5RProPECUaCA_lHb21_pbjokPghFVlAZd70OFeIz-jg5Xa8-DwOtqV9JsiVfyDZ2vvaGcE0hfq-9RW0ylGE6ee1tuZ1T_csofCUhmcbX35K_wmcB2qjRajTtei2ckq7rUWKNe8Irhs0BLthqH1W2Bir1NUJySI7rzB-Nav0LZjHEjlGuafgI1FuZRoIrXQf7JZqLM6LPfhRIYDmyQE_CnFt1pt4qTo8WFxKUKKtc=w527-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.85409770000001,1.2971181000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kallang Wave, sheltered racks along outside corridor</name>
+				<description><![CDATA[Sheffield racks in the corner of the shaded corridor.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8732111,1.3022398,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Facilities with special features</name>
+			<Placemark>
+				<name>Kallang Wave, Foodfare food court, 2F</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/IBsEx_9LxT3osxqEJTxPv7xs-qxrpUoQ6_j5r31LykOGw8v_Oaf3Ljz85urMfOVWVFzcblWSYonc2AmB9stw-l8tWnOITlRuA7puUofOSDSMGZ3X8MLgIcOaJV7Rj1P5cRKAzMXP83TK74LZKmbGPQu7hPbNKV4fQ7G6e4EdOFYKZvdMDRf6T3tIMCItN60t98YQlLH1C4ciXGnrTNjCwwog2g6MFi16tnhauhQBTGu9nCSNQE1CR13-bJ-VnEpdRRH1TyW57XphcXi7IBh3gq2UeAZIsMRtx6uv5GxS3fp5aPpEjIWLSM7Fxp95fwdQdUm51NzrUagUuvV4fApA_QuKRnEv4rzlCO1x1YUt8jg4nZYbcb_OxDsoIh_r8hTzmCrB908Xe575nqqwfCjeLnaEu7h1sLhB3-CNr_8ZwAeFAh1a2DBED45xYKFAzJ1T8tdddsaREtfZ0fmAdWMJ8sjo-rWsKuUkOzPc7J2gER8YTtKeYSC8w-pZW6R-zDyiLyaz4sgFBHRoc-bNpTjtpgBk6eJ504r4X8v5E5GtSI4=w936-h702-no" height="200" width="auto" /><br><br>Wall mount racks, opposite indoor entrance to Aston's. Bike tools available here!<br><br><img src="https://lh3.googleusercontent.com/hfbPsM-Vrba3f0N1j3BFA4-vidcj6tX7gmc-TQPhg4e1q_zRmcsBoWl1WvEkoxMORG4r1jxsjiQgfaD9okCpxS52d8S-fNwrib-cYkolhYbX4Gnz7iCfC54VMW7dfrKHRbMA36rVc6Nn0bqiNk65IzK3WbYO9Kn26hjHv6KRssSRCHF6zAGV5jqrlsyohVAlyzQIwwY9ftwxJk5dIddGhJZreEzEaTKzU62mGrzZC9_RmPZbkK6SqMO3nkisDyhLBaKLdVjQaSOyfmRoA-aejWw4N5QBzxfWU0NNEQm0btOh-rkeviYazmwQxoKUNVi4pSa1dopaBsWEFd_jt9BVchmVB2KNZTN9hn6XcIlBdA3PDDxBoc05TLSWIQpv8jwk2XIk75nYJocqgqAyR1QtaPToB-Xwx04_j__KimHODdJQHz-3Mhkw7CYzIOQsoRN7szjrlEBXEAnh9-IB7I2gutGSNbINEe85NkE9wr_lcqjRr4vYjzk7X9e80kXeJ3rNDTqnUZX8AYz2cftY5AKo4nGwT8mn5gb7loS0WDt4-Ik=w527-h702-no" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/IBsEx_9LxT3osxqEJTxPv7xs-qxrpUoQ6_j5r31LykOGw8v_Oaf3Ljz85urMfOVWVFzcblWSYonc2AmB9stw-l8tWnOITlRuA7puUofOSDSMGZ3X8MLgIcOaJV7Rj1P5cRKAzMXP83TK74LZKmbGPQu7hPbNKV4fQ7G6e4EdOFYKZvdMDRf6T3tIMCItN60t98YQlLH1C4ciXGnrTNjCwwog2g6MFi16tnhauhQBTGu9nCSNQE1CR13-bJ-VnEpdRRH1TyW57XphcXi7IBh3gq2UeAZIsMRtx6uv5GxS3fp5aPpEjIWLSM7Fxp95fwdQdUm51NzrUagUuvV4fApA_QuKRnEv4rzlCO1x1YUt8jg4nZYbcb_OxDsoIh_r8hTzmCrB908Xe575nqqwfCjeLnaEu7h1sLhB3-CNr_8ZwAeFAh1a2DBED45xYKFAzJ1T8tdddsaREtfZ0fmAdWMJ8sjo-rWsKuUkOzPc7J2gER8YTtKeYSC8w-pZW6R-zDyiLyaz4sgFBHRoc-bNpTjtpgBk6eJ504r4X8v5E5GtSI4=w936-h702-no https://lh3.googleusercontent.com/hfbPsM-Vrba3f0N1j3BFA4-vidcj6tX7gmc-TQPhg4e1q_zRmcsBoWl1WvEkoxMORG4r1jxsjiQgfaD9okCpxS52d8S-fNwrib-cYkolhYbX4Gnz7iCfC54VMW7dfrKHRbMA36rVc6Nn0bqiNk65IzK3WbYO9Kn26hjHv6KRssSRCHF6zAGV5jqrlsyohVAlyzQIwwY9ftwxJk5dIddGhJZreEzEaTKzU62mGrzZC9_RmPZbkK6SqMO3nkisDyhLBaKLdVjQaSOyfmRoA-aejWw4N5QBzxfWU0NNEQm0btOh-rkeviYazmwQxoKUNVi4pSa1dopaBsWEFd_jt9BVchmVB2KNZTN9hn6XcIlBdA3PDDxBoc05TLSWIQpv8jwk2XIk75nYJocqgqAyR1QtaPToB-Xwx04_j__KimHODdJQHz-3Mhkw7CYzIOQsoRN7szjrlEBXEAnh9-IB7I2gutGSNbINEe85NkE9wr_lcqjRr4vYjzk7X9e80kXeJ3rNDTqnUZX8AYz2cftY5AKo4nGwT8mn5gb7loS0WDt4-Ik=w527-h702-no</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8731495,1.3027332,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-62AF44-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-62AF44-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-62AF44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-62AF44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-62AF44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
