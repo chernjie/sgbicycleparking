@@ -58,6 +58,7 @@ _replaceImages() {
 
 _commit() {
   git add images.map images/*jpeg *.kml
+  git add -u images.map images/*jpeg *.kml
   git commit -m "Daily images backup"
   git push
 }
