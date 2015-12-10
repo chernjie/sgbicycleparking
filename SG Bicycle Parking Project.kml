@@ -493,9 +493,12 @@
 			</Placemark>
 			<Placemark>
 				<name>Khatib MRT</name>
-				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/627aec2e238ef9da722d3fdd836554a6.jpeg" height="200" width="auto" /><br><br>Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/627aec2e238ef9da722d3fdd836554a6.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.8331202,1.4179767,0.0</coordinates>
@@ -503,9 +506,12 @@
 			</Placemark>
 			<Placemark>
 				<name>Khatib MRT</name>
-				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/80e5b955c4ace4412511a7ff7e2b72b2.jpeg" height="200" width="auto" /><br><br>Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/80e5b955c4ace4412511a7ff7e2b72b2.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.8326856,1.4172098,0.0</coordinates>
@@ -513,9 +519,12 @@
 			</Placemark>
 			<Placemark>
 				<name>Khatib MRT</name>
-				<description><![CDATA[Unsheltered 2-Tier Bicycle Rack]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/308414a24a0b5dfb4cb21cb8039e8391.jpeg" height="200" width="auto" /><br><br>Unsheltered 2-Tier Bicycle Rack]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/308414a24a0b5dfb4cb21cb8039e8391.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.832868,1.4175691,0.0</coordinates>
@@ -523,9 +532,12 @@
 			</Placemark>
 			<Placemark>
 				<name>Blk 849, besides traffic lights</name>
-				<description><![CDATA[Unsheltered]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/96ef92ab173e24036b8ccd4772f4a702.jpeg" height="200" width="auto" /><br><br>Partially sheltered]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/96ef92ab173e24036b8ccd4772f4a702.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.835329,1.4172165,0.0</coordinates>
@@ -533,9 +545,12 @@
 			</Placemark>
 			<Placemark>
 				<name>Blk 849, outside NTUC Fairprice</name>
-				<description><![CDATA[Sheltered]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
+				<description><![CDATA[<img src="images/9f22b91865cd94e1f568d58a56ab0c79.jpeg" height="200" width="auto" /><br><br>Unsheltered]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/9f22b91865cd94e1f568d58a56ab0c79.jpeg</value>
+					</Data>
 				</ExtendedData>
 				<Point>
 					<coordinates>103.8352284,1.4172098,0.0</coordinates>
@@ -748,11 +763,11 @@
 			</Placemark>
 			<Placemark>
 				<name>Bishan MRT</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/oDAzu0yBVUAnnWKDx3Pd2iHkqYIwIUhxPdbGWsXM6z128JN3R4N12GrSB9YqqlnLyJd72w8VKsmBOPSLZw_n2znvFcOZTMYtB--UY5Br4abdWKLbzGXIVaBu2Ob7geAxvex35NNf95eXG24B4wXBmDiOXcClZ6sTZcLrU4LYzuWQw2C8SuFPy9rOfZAsOt24PTgSqpxbHLl9UcHpcs9oEfe0vAUjyuZMwQDrI94M8rA0V9LBU2nr-t_WPU2tzdy042_VLnt7xHwEU8o8Ko9lV6QlXL0YzGiFYkiYi-NGRT0kNh0_mp58h96d5hRZn8uThaev9u532nTn1N_vkL40ed842X3GKbZtyczXEpOImqFSFRDAJk5yJROaKb1qmX0zz3WpyBPRTexUCRR7pBw4rIuz2aylNztRsgvYVJx91pQPmWM7hciItK09Uf9tHfqoVjO1_BCOl5eh0RxjcibOueSTxycJoASL0VzlwzQ7xu6FKn_0ysR8djZzZL0ImdDKq9TKYOj8aR21c8u4ggiIvyuK0u37lSo5Zvq5q2qozQ8=w1168-h657-no" height="200" width="auto" /><br><br>Right side of bus stop, next to toilet, semi sheltered, 2-level<br><br><img src="https://lh3.googleusercontent.com/fwH7HlPNSU2MXTbumLobTqKn1nfjbuRAX5bV8hgGHIu-kEB-9XDTbn1ddiYRM5BzgMCsV_cNvVjeZ--t1Lnt63t171_AMhVqGcEAo7-6vmTh3CXYRsIyXRc6qLZdOHe0ale475YbRtO7uEr08ClmIQek4vAWU7EB0XFva589QwLYeDvmRf31DvBP3RWg-4Vi62GxdMip4MUVxS0I5fp6DTDGaHSjVEIWlK8AuVTn33jtq4wsGUqaNyMx8RPeQ5yh2zp2PqujbP387DYM44GlNlhru1dXMMsdsEDIt3L_xG4gzcSEIeX5H0If9WBAAS-QZcK1dE0kGOoUzfpYuUSib5ZhcfW38V6lJSXmuC7Oc-y1EgTjCcyUNItQ_vzf1dzdMFgdMkosWNdCq2iG8pOvc4g-a144tuY8BhoorysJqb3ggYfFS4ooqvVA2KBY-kGJvC-roeBCa5NEqgLCwCb0ZMzv8R0qpwoIb1vECBI6szfeyBmCQxin3Ec4T0pF0-nnwgQ_TpAc7SGK3_XH2xn_D5tInR5FfQ_RAIV53k36Ohw=w1168-h657-no" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/f90dc4af45e7ff37659596560b3d1567.jpeg" height="200" width="auto" /><br><br>Right side of bus stop, next to toilet, semi sheltered, 2-level<br><br><img src="images/9fe26b05f1f507298db7ade986f456e7.jpeg" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/oDAzu0yBVUAnnWKDx3Pd2iHkqYIwIUhxPdbGWsXM6z128JN3R4N12GrSB9YqqlnLyJd72w8VKsmBOPSLZw_n2znvFcOZTMYtB--UY5Br4abdWKLbzGXIVaBu2Ob7geAxvex35NNf95eXG24B4wXBmDiOXcClZ6sTZcLrU4LYzuWQw2C8SuFPy9rOfZAsOt24PTgSqpxbHLl9UcHpcs9oEfe0vAUjyuZMwQDrI94M8rA0V9LBU2nr-t_WPU2tzdy042_VLnt7xHwEU8o8Ko9lV6QlXL0YzGiFYkiYi-NGRT0kNh0_mp58h96d5hRZn8uThaev9u532nTn1N_vkL40ed842X3GKbZtyczXEpOImqFSFRDAJk5yJROaKb1qmX0zz3WpyBPRTexUCRR7pBw4rIuz2aylNztRsgvYVJx91pQPmWM7hciItK09Uf9tHfqoVjO1_BCOl5eh0RxjcibOueSTxycJoASL0VzlwzQ7xu6FKn_0ysR8djZzZL0ImdDKq9TKYOj8aR21c8u4ggiIvyuK0u37lSo5Zvq5q2qozQ8=w1168-h657-no https://lh3.googleusercontent.com/fwH7HlPNSU2MXTbumLobTqKn1nfjbuRAX5bV8hgGHIu-kEB-9XDTbn1ddiYRM5BzgMCsV_cNvVjeZ--t1Lnt63t171_AMhVqGcEAo7-6vmTh3CXYRsIyXRc6qLZdOHe0ale475YbRtO7uEr08ClmIQek4vAWU7EB0XFva589QwLYeDvmRf31DvBP3RWg-4Vi62GxdMip4MUVxS0I5fp6DTDGaHSjVEIWlK8AuVTn33jtq4wsGUqaNyMx8RPeQ5yh2zp2PqujbP387DYM44GlNlhru1dXMMsdsEDIt3L_xG4gzcSEIeX5H0If9WBAAS-QZcK1dE0kGOoUzfpYuUSib5ZhcfW38V6lJSXmuC7Oc-y1EgTjCcyUNItQ_vzf1dzdMFgdMkosWNdCq2iG8pOvc4g-a144tuY8BhoorysJqb3ggYfFS4ooqvVA2KBY-kGJvC-roeBCa5NEqgLCwCb0ZMzv8R0qpwoIb1vECBI6szfeyBmCQxin3Ec4T0pF0-nnwgQ_TpAc7SGK3_XH2xn_D5tInR5FfQ_RAIV53k36Ohw=w1168-h657-no</value>
+						<value>images/f90dc4af45e7ff37659596560b3d1567.jpeg images/9fe26b05f1f507298db7ade986f456e7.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -760,13 +775,12 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Bishan MRT
-</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/CPVk-buxrQoYt7lZCIPjQMN7_He2y62lB2-qELkduJReAWljE3WBhhbb9F1gq4EZvvRExeGQPQbF5Ri8jDeQfiWBQTCGrv8vpnl79Me4Ull4RjASDsXzd4FvH1qwf348lBa0XYTlO6m98sBZv4EY0J2j4jeBcGfcwA3cQR3rUiw9_bi_ZGTT1O_xTiw1qM2u-hRTFtAqbuR400yf9EXC8AXK5nq1qzG1nLkShsIrBs1KpxouAJ063how_2UhbYUsBWqsS63hBu7mDwCJ3Ycl2mLwaIkTKSZVzA7Fnl2Zuyb1fDwO_ksUv4a80pdQI8XIdIuzZhiOakOauhTzzUYLyTP9VM7KwC4wbwhj0w8riHauglLFFlPiG87xZw_cnzEhTSVBB95he8zwV4j7oKQaoI1lcoyhqGXdrGV77PlHWC8sptM5tiuNEzz29lHMMPhoHnB6WcddL3zkwoZhO5h7q5lw6iMQWfPm7el-HENv504O36DB0TEHZPfDmxTqnRpBmDjlNlkdjDRHoo0AGqODa0NJa8xDdZvAJqx3hZEDmzc=w1168-h657-no" height="200" width="auto" /><br><br>Left side of bus stop towards overhead bridge, unsheltered, 2-level rack<br><br><img src="https://lh3.googleusercontent.com/e0Zfq8NcbEAWzXp0FG5CUTuyPbKt7fRyD-393ZAe8pWYJ5wULDOeWlGQU31LVSzKAf3jRcVB8EB7LxxMwVG75ActD3YLDNex0_81OBBWks37W1e7RFez1U9UwCz6cFDocV8c4DaGNWELtRhMarXHIqnayonlGsbM6iwYJYe6tJ9mKZeoR93zYHkZGBvJRGuRRPN2-BE_3deVga1StAoidV3WeJ3N_DuB3oZbrQm-XIXGMyQiMXZwS5R9SIQhpEC9VwwQ0dlO6HDWt_wjNAEojXA9JkbprSrETVbIof_CxebB1wtzwUdG7Chhr2srUiaIpsg85kMYzKfRzK9UOStkq4ch48PBuZi2jn7LphfnzmOCoXFQtr5XFMTRoc9SJCkbtoRz1clldCEK6OXcnYuK8RK135kyU-bNmGtXUVFfm0OP5X8eOO8Jgrbs7C9LagkevwD82bv9qreJ9nd3fLo8Oa0OIXsdKc2ofKlsOVYBEu_Y4PSbH8Xn6BqwyPJX_aJ7lNWQXrBRDSNNvcQh0eEeIfigw-1TMWhQEkOAfnrEdrQ=w1168-h657-no" height="200" width="auto" />]]></description>
+				<name>Bishan MRT</name>
+				<description><![CDATA[<img src="images/9f1d98b83b6bbb91b9885589f219df6d.jpeg" height="200" width="auto" /><br><br>Left side of bus stop towards overhead bridge, unsheltered, 2-level rack<br><br><img src="images/01bab8d643a474a6bd652481de21fb27.jpeg" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/CPVk-buxrQoYt7lZCIPjQMN7_He2y62lB2-qELkduJReAWljE3WBhhbb9F1gq4EZvvRExeGQPQbF5Ri8jDeQfiWBQTCGrv8vpnl79Me4Ull4RjASDsXzd4FvH1qwf348lBa0XYTlO6m98sBZv4EY0J2j4jeBcGfcwA3cQR3rUiw9_bi_ZGTT1O_xTiw1qM2u-hRTFtAqbuR400yf9EXC8AXK5nq1qzG1nLkShsIrBs1KpxouAJ063how_2UhbYUsBWqsS63hBu7mDwCJ3Ycl2mLwaIkTKSZVzA7Fnl2Zuyb1fDwO_ksUv4a80pdQI8XIdIuzZhiOakOauhTzzUYLyTP9VM7KwC4wbwhj0w8riHauglLFFlPiG87xZw_cnzEhTSVBB95he8zwV4j7oKQaoI1lcoyhqGXdrGV77PlHWC8sptM5tiuNEzz29lHMMPhoHnB6WcddL3zkwoZhO5h7q5lw6iMQWfPm7el-HENv504O36DB0TEHZPfDmxTqnRpBmDjlNlkdjDRHoo0AGqODa0NJa8xDdZvAJqx3hZEDmzc=w1168-h657-no https://lh3.googleusercontent.com/e0Zfq8NcbEAWzXp0FG5CUTuyPbKt7fRyD-393ZAe8pWYJ5wULDOeWlGQU31LVSzKAf3jRcVB8EB7LxxMwVG75ActD3YLDNex0_81OBBWks37W1e7RFez1U9UwCz6cFDocV8c4DaGNWELtRhMarXHIqnayonlGsbM6iwYJYe6tJ9mKZeoR93zYHkZGBvJRGuRRPN2-BE_3deVga1StAoidV3WeJ3N_DuB3oZbrQm-XIXGMyQiMXZwS5R9SIQhpEC9VwwQ0dlO6HDWt_wjNAEojXA9JkbprSrETVbIof_CxebB1wtzwUdG7Chhr2srUiaIpsg85kMYzKfRzK9UOStkq4ch48PBuZi2jn7LphfnzmOCoXFQtr5XFMTRoc9SJCkbtoRz1clldCEK6OXcnYuK8RK135kyU-bNmGtXUVFfm0OP5X8eOO8Jgrbs7C9LagkevwD82bv9qreJ9nd3fLo8Oa0OIXsdKc2ofKlsOVYBEu_Y4PSbH8Xn6BqwyPJX_aJ7lNWQXrBRDSNNvcQh0eEeIfigw-1TMWhQEkOAfnrEdrQ=w1168-h657-no</value>
+						<value>images/9f1d98b83b6bbb91b9885589f219df6d.jpeg images/01bab8d643a474a6bd652481de21fb27.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -775,11 +789,11 @@
 			</Placemark>
 			<Placemark>
 				<name>Jurong East MRT</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/64-Osqqc8aQlgXgIXJalzH6BF6IzFSpOCxTaf6lqUXoOfbTvC93I4Y1d2OPKMwCJkVfcUO4MfpLofcOVAlwjAhyHdMfIYLQGL7EQpcjrPoLWQ8MuJ2X6ETqYiQWA9hVa8IVQoDACw1zHOoBFVTFggzGyvs7oxZ2GgD_kQva5vq7_4kGOmgvmIm4OyoK1wCGuhMGNZhuQmj6Z2vEEWU6ghxWTBc-SiYY7sMj8pOX1PIhpWaD0nruJinzDQ1wZw1MS95Yt4vdgmJKu1GxCcRJgCrmJB47BgNmSdeCZ4LynKp-Cfuy9sZks1lYmMcJ27b1EpMO6Vjp6uKfhcgvfM0cK7icGMfKvW8CkvRfX1N1aXnWGRsI4bpjw19rky6OMACCgsU2HvKru2S-GCHP4PO603rlJNFf4nLzLeaH3p0JMEz65L8YdOn2HKdvqrxL2HAnwubm5uT1aXL974ID0zlhjEiaiWKarX7w-l32idpNzd_qQtAgWmtwZ2_BUeic0v8Uwzgr5MJqsU6ogHL8J9H6x14hTUoOPUA1OlHJRIhXet5U=w1168-h657-no" height="200" width="auto" /><br><br>Below MRT station, sheltered, behind Kopitiam, next to JEM fountain<br><br><img src="https://lh3.googleusercontent.com/8FBM8FxghvpxxjYptmDLlk_wLYhtoXRJTMFyUOJNKc9XjfZ16dS-bsDRDl-UMje-caL9AbK9BIacmmfvWtz2r31Evy6u8sZtLtmbFC7o2Bad6PUgQBjIo_4Zuq_zC8s-ugge2myGSi1JagLPrBKe9CnE4kDYipRGh0nql4zAvovEzK02EPuITzdLQngpaO1eZNm95jK1SdBretg8etpIk3BaAO96yVHuFZJps5stCmWgRjDC0yzWA4un9kowPX66fLBq8i7sEA9_orHrSC5QdWKjEGNRVz5Zk-sE9Zv47WXOq7_N49mvQ5sNuscsAnfhxxtPrt7J_S7vJIIk7IC6yWAjEqup8xlyhr_LsPojIMlC13RVmxJ-pTjIotjmhlMzxkRF2aTA29RD7I_2lu2nQrH40D2J3f4GgghFCbM8ZKnUtWDCyE5LGpij-KBH__DCedSQe3yDXnWB3vpLXLzCW1D3C-LNIAG_izKXUSHWnwpnLAQO6DidHM2enmcF1v4YcVVlZNGBxp2YAlHsioqFhYGCvVKPZIRW_ScKEYwmaQQ=w1168-h657-no" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/39e156bbdabc4df3e3b48dbcbd0cb9a3.jpeg" height="200" width="auto" /><br><br>Below MRT station, sheltered, behind Kopitiam, next to JEM fountain<br><br><img src="images/84fbe7e47eaeec8e89d8547d6b73cf29.jpeg" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/64-Osqqc8aQlgXgIXJalzH6BF6IzFSpOCxTaf6lqUXoOfbTvC93I4Y1d2OPKMwCJkVfcUO4MfpLofcOVAlwjAhyHdMfIYLQGL7EQpcjrPoLWQ8MuJ2X6ETqYiQWA9hVa8IVQoDACw1zHOoBFVTFggzGyvs7oxZ2GgD_kQva5vq7_4kGOmgvmIm4OyoK1wCGuhMGNZhuQmj6Z2vEEWU6ghxWTBc-SiYY7sMj8pOX1PIhpWaD0nruJinzDQ1wZw1MS95Yt4vdgmJKu1GxCcRJgCrmJB47BgNmSdeCZ4LynKp-Cfuy9sZks1lYmMcJ27b1EpMO6Vjp6uKfhcgvfM0cK7icGMfKvW8CkvRfX1N1aXnWGRsI4bpjw19rky6OMACCgsU2HvKru2S-GCHP4PO603rlJNFf4nLzLeaH3p0JMEz65L8YdOn2HKdvqrxL2HAnwubm5uT1aXL974ID0zlhjEiaiWKarX7w-l32idpNzd_qQtAgWmtwZ2_BUeic0v8Uwzgr5MJqsU6ogHL8J9H6x14hTUoOPUA1OlHJRIhXet5U=w1168-h657-no https://lh3.googleusercontent.com/8FBM8FxghvpxxjYptmDLlk_wLYhtoXRJTMFyUOJNKc9XjfZ16dS-bsDRDl-UMje-caL9AbK9BIacmmfvWtz2r31Evy6u8sZtLtmbFC7o2Bad6PUgQBjIo_4Zuq_zC8s-ugge2myGSi1JagLPrBKe9CnE4kDYipRGh0nql4zAvovEzK02EPuITzdLQngpaO1eZNm95jK1SdBretg8etpIk3BaAO96yVHuFZJps5stCmWgRjDC0yzWA4un9kowPX66fLBq8i7sEA9_orHrSC5QdWKjEGNRVz5Zk-sE9Zv47WXOq7_N49mvQ5sNuscsAnfhxxtPrt7J_S7vJIIk7IC6yWAjEqup8xlyhr_LsPojIMlC13RVmxJ-pTjIotjmhlMzxkRF2aTA29RD7I_2lu2nQrH40D2J3f4GgghFCbM8ZKnUtWDCyE5LGpij-KBH__DCedSQe3yDXnWB3vpLXLzCW1D3C-LNIAG_izKXUSHWnwpnLAQO6DidHM2enmcF1v4YcVVlZNGBxp2YAlHsioqFhYGCvVKPZIRW_ScKEYwmaQQ=w1168-h657-no</value>
+						<value>images/39e156bbdabc4df3e3b48dbcbd0cb9a3.jpeg images/84fbe7e47eaeec8e89d8547d6b73cf29.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -788,11 +802,11 @@
 			</Placemark>
 			<Placemark>
 				<name>Jurong East MRT</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/R2ZOqDXgmOvoCUwj42jS4To0vW90eUO46_c6C0a_OLLzsfOoNfS6uqe2KRQLnn1ttCyueAyR1CLN2BNmnkA3z9Q3_5hjUjj1a4JLx6Zcq9oX-gQJ0j9BITo8rzP1aXTM79ANHRPMuXFNWDt1nTB3CfGPyk9mB4UyqQut7Or6n6ebzmcbxN141MYLtkIl-EbjAnDIL0j5LeEvrht0JwMdGGh0rOsIZ2Jo5fnxaEyL7VXyDXUrFpaAAXnIQ85pVrVVzOi0htBNFO8lg0nRU7AXYi0etJu33a8tZNeBj7diiw8UU5pt7QA4ptxZQovhrQ_UUugcU6D0Eyzb6x1EKY2MzYeeBF-uuoQkdKNsysZPpeVM_W1ob7CpoXQMuhAkeziLEhFTzwaysZcGkH8uCMfMtu_yQtkEsDqmEJIXK1ZPS0PtnNGQ5u1Ltr_BlMERDk1zRX8QzSaHz8b4tJcURpe0EL6j25X0j402PYl9U7eiG6kJU-IT0MBNe5wfKVniMnzCU6rhtn42PzkHH12WDdp_bdY1wdzKnVQ42GFGm0S2lGc=w1168-h657-no" height="200" width="auto" /><br><br>Below train station, sheltered, in front of Westgate entrance<br><br><img src="https://lh3.googleusercontent.com/QxOSjtT7UwFcndr38DWuohP57-TWYvhxlaBih8s1UtcRJCFyZwzVgdpfHxQDMOSgAaHLr4gQS5A04PbWDX8OIcJD88zvVqB0F5KmZs63s4n8xAHRQMWHDkAwc4g6ndpfFxbdIi2I6640ATK6KNlNmQNBmUDZQGwk5DCALRcWHT2pUI1AUcZ2w4BVhDNCmbmzQoXV7q0ztxS2-I4fGWqf0Sa5Arv35XpQBFD6j8760RS1lazHhC02egOFFAoAvGILeNLarzJGYv6S8rSdqGdbc2HXq_KJOwQdZv9ypW6ZWK842dE2gYTBoXqMtPDIQ5bWEfaBLKJxLba6nwRUz3p6HBrLQIvD-ewLI328OZXOv275xlaTrZSGU4w4ftOwGS4hiDZAWYlqgO06Y8aD_OULC3bSPyAv90EDllyIJX6f9Dfznp8OhpIqmtOBZhpqAz0UK_DAHgjfK49auzBb0LYRYUK2QwEO0jMagR9r-icCOUTD2e1LLKssdzk7BvIn-doW5M3X7XRy-mft2dOHM9inHie8tVRbCf9rCKJWqMeDgD0=w1168-h657-no" height="200" width="auto" />]]></description>
+				<description><![CDATA[<img src="images/63d4463abffa81791218f5dd84d4bf53.jpeg" height="200" width="auto" /><br><br>Below train station, sheltered, in front of Westgate entrance<br><br><img src="images/28a92cc0cc830e3994d46fc19536e5bd.jpeg" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/R2ZOqDXgmOvoCUwj42jS4To0vW90eUO46_c6C0a_OLLzsfOoNfS6uqe2KRQLnn1ttCyueAyR1CLN2BNmnkA3z9Q3_5hjUjj1a4JLx6Zcq9oX-gQJ0j9BITo8rzP1aXTM79ANHRPMuXFNWDt1nTB3CfGPyk9mB4UyqQut7Or6n6ebzmcbxN141MYLtkIl-EbjAnDIL0j5LeEvrht0JwMdGGh0rOsIZ2Jo5fnxaEyL7VXyDXUrFpaAAXnIQ85pVrVVzOi0htBNFO8lg0nRU7AXYi0etJu33a8tZNeBj7diiw8UU5pt7QA4ptxZQovhrQ_UUugcU6D0Eyzb6x1EKY2MzYeeBF-uuoQkdKNsysZPpeVM_W1ob7CpoXQMuhAkeziLEhFTzwaysZcGkH8uCMfMtu_yQtkEsDqmEJIXK1ZPS0PtnNGQ5u1Ltr_BlMERDk1zRX8QzSaHz8b4tJcURpe0EL6j25X0j402PYl9U7eiG6kJU-IT0MBNe5wfKVniMnzCU6rhtn42PzkHH12WDdp_bdY1wdzKnVQ42GFGm0S2lGc=w1168-h657-no https://lh3.googleusercontent.com/QxOSjtT7UwFcndr38DWuohP57-TWYvhxlaBih8s1UtcRJCFyZwzVgdpfHxQDMOSgAaHLr4gQS5A04PbWDX8OIcJD88zvVqB0F5KmZs63s4n8xAHRQMWHDkAwc4g6ndpfFxbdIi2I6640ATK6KNlNmQNBmUDZQGwk5DCALRcWHT2pUI1AUcZ2w4BVhDNCmbmzQoXV7q0ztxS2-I4fGWqf0Sa5Arv35XpQBFD6j8760RS1lazHhC02egOFFAoAvGILeNLarzJGYv6S8rSdqGdbc2HXq_KJOwQdZv9ypW6ZWK842dE2gYTBoXqMtPDIQ5bWEfaBLKJxLba6nwRUz3p6HBrLQIvD-ewLI328OZXOv275xlaTrZSGU4w4ftOwGS4hiDZAWYlqgO06Y8aD_OULC3bSPyAv90EDllyIJX6f9Dfznp8OhpIqmtOBZhpqAz0UK_DAHgjfK49auzBb0LYRYUK2QwEO0jMagR9r-icCOUTD2e1LLKssdzk7BvIn-doW5M3X7XRy-mft2dOHM9inHie8tVRbCf9rCKJWqMeDgD0=w1168-h657-no</value>
+						<value>images/63d4463abffa81791218f5dd84d4bf53.jpeg images/28a92cc0cc830e3994d46fc19536e5bd.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -913,13 +927,12 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Jurong Regional Library
-</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/_i4DjYt_EmTIqdoL-5tTFErpFYJJE5mlXnixN7mFe1lH5Ado5sPfhP7uTj_NDDPBSCuNoCgKGig-NozRKz_jT3eRJVk8cfNa7TDkzqnKAjkh-a6DETWcp_q7bPm2QeiGvxnWSAfVNanTVnTHF6u8jxSucUhzAbJ53lHf6Ypsu4lfwkZIORzCdYqf3V6SA0VJftFOxU8nHEuqGAqjgJudW0pUw7APhTGpdan9EkwOCBlXqC6DPZ29fgLpC-8cBypiUWYAsjbdoESzMHSqyuzvMblI7wUoddlZVmu39d9u27YCbFWa-dcAF9RCXHDbjDB1xipN4fGNGEtocty6LOIH6GyewGcCTpouLK43DNm4k-oFLNs76gwoAOTTLFcSbDOv3A2xwIy7077Le7VYws7LUvHR3Jd0mJbnqi9-K3K2R661ZEHBOiEnFIkY1muIwbgzOlP4oegS-H97nZ-Yqcixh9_5z76efQr4QMz2L7wf0rb1XA757hcHT61ZhdvnHVMh0uC6gxoJv10zyCd2S3VlhIeq1tMRfGiZmSAQZvDOcB4=w1168-h657-no" height="200" width="auto" /><br><br>Behind the library, along the walkway to the HDB flat, not sheltered]]></description>
+				<name>Jurong Regional Library</name>
+				<description><![CDATA[<img src="images/33edae11b1c4be24e23eeb2f03599614.jpeg" height="200" width="auto" /><br><br>Behind the library, along the walkway to the HDB flat, not sheltered]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/_i4DjYt_EmTIqdoL-5tTFErpFYJJE5mlXnixN7mFe1lH5Ado5sPfhP7uTj_NDDPBSCuNoCgKGig-NozRKz_jT3eRJVk8cfNa7TDkzqnKAjkh-a6DETWcp_q7bPm2QeiGvxnWSAfVNanTVnTHF6u8jxSucUhzAbJ53lHf6Ypsu4lfwkZIORzCdYqf3V6SA0VJftFOxU8nHEuqGAqjgJudW0pUw7APhTGpdan9EkwOCBlXqC6DPZ29fgLpC-8cBypiUWYAsjbdoESzMHSqyuzvMblI7wUoddlZVmu39d9u27YCbFWa-dcAF9RCXHDbjDB1xipN4fGNGEtocty6LOIH6GyewGcCTpouLK43DNm4k-oFLNs76gwoAOTTLFcSbDOv3A2xwIy7077Le7VYws7LUvHR3Jd0mJbnqi9-K3K2R661ZEHBOiEnFIkY1muIwbgzOlP4oegS-H97nZ-Yqcixh9_5z76efQr4QMz2L7wf0rb1XA757hcHT61ZhdvnHVMh0uC6gxoJv10zyCd2S3VlhIeq1tMRfGiZmSAQZvDOcB4=w1168-h657-no</value>
+						<value>images/33edae11b1c4be24e23eeb2f03599614.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -927,13 +940,12 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Choa Chu Kang MRT
-</name>
-				<description><![CDATA[<img src="https://lh3.googleusercontent.com/skqEe1sJoRLmmWW0An5VU52UUdodL6xwaRb_XYEFyyNApGyEOnYIBoiuUivlfUPw-HSG9qZNCYWWx81Jw7wKkeqj2FuNxPCSdsbaPFApSJvHHWQOHOzNH39rFnHMYp11O1xQEKwINGneBWQHwkmsDfAby_1XeJwnTbXsidKsyZ3S0sX1SAQ3dlaX-hz8R3eYPnYp-j8CkjgjLzSn9lHVKDXiS8EK62fb96id-5U0pFUTTNSEAuF_ptqBVBE_IhdTh9gn-zKj6lgLeeluLhnU1mtJ03HVZ7YRuSE00xmNzbfTz-MzRGYlYGsuj43B0Q3B0QXBhGix2rWg9JRinmooP4U29bPlw1i-Z9Npiwg17fU21WKjzTeWMvcb_y2LFa4EiQXNw9_5m7EechcJcSvMCEwUz_I3YJdRQ7xkE8w7nd2tRycwKBzQRJAgkmoy-2msjW29ttwgh8nb6mS-3g8OcwqjRuMX_OYRf64PaQNn5CVOAyfR1cwNfOYA4w8uVYHO9jowNv_3lJ6-GyehxHWnkP_YMUZ_ZbiWF719YvTIl6g=w1168-h657-no" height="200" width="auto" /><br><br>Below the MRT station/tracks, partly sheltered, 2-level racks<br><br><img src="https://lh3.googleusercontent.com/-9Dh4jCE6WXRPyQsqiVA9GWA6KD0yMy-TbX2TBTkYYtRveouPJASUrSPPtzy5fgglGqMtnDrQdV0zlf16jUftZVEssYUPC4fca-RXctqvi5SGCMDRSS1loDJ3GfWDP9MwwquUJ7VWSekdrp9IZK0GnYgpYLehtI124nisBH4iVEf3VwZbYYvh8Uw5IfkrSb_yRj686E0gGXAQ_tRO_aaLEU8RXPJjiFjLlkiU96rzON9jXdaFneP4n8KM_gfAGnZj2UUZk4IC5idszXcY_aDSQ40VPvR1OF_kG6nnkAKl36shTdKajVD5nJQl7GLZRfSIBUPNGRItESOiTLMCZNaFt58kW0NF5Wom2uDTJ-4TmI4qR8gdxRSeKjHzO7C04G8yrQWk37UqyICLXtM9GhExD6OAAzh3fu-LtOja9uNspVd5ENG-eWUEv1OBPlmY5_kEqbYlZlXthfgdqGkfTrx1_eCfKhfQqNILCntYO7Lm-GRu8BtV22EAmp5gApchKaQxBm1NmwSyp9Osraamv_FT2kK8eSRb-2CrSxb4G2AfOg=w1168-h657-no" height="200" width="auto" />]]></description>
+				<name>Choa Chu Kang MRT</name>
+				<description><![CDATA[<img src="images/f3129250b726bc68d58897290accdce4.jpeg" height="200" width="auto" /><br><br>Below the MRT station/tracks, partly sheltered, 2-level racks<br><br><img src="images/970e5b177b66b0b2604c9b70ddf45e4e.jpeg" height="200" width="auto" />]]></description>
 				<styleUrl>#icon-503-62AF44</styleUrl>
 				<ExtendedData>
 					<Data name='gx_media_links'>
-						<value>https://lh3.googleusercontent.com/skqEe1sJoRLmmWW0An5VU52UUdodL6xwaRb_XYEFyyNApGyEOnYIBoiuUivlfUPw-HSG9qZNCYWWx81Jw7wKkeqj2FuNxPCSdsbaPFApSJvHHWQOHOzNH39rFnHMYp11O1xQEKwINGneBWQHwkmsDfAby_1XeJwnTbXsidKsyZ3S0sX1SAQ3dlaX-hz8R3eYPnYp-j8CkjgjLzSn9lHVKDXiS8EK62fb96id-5U0pFUTTNSEAuF_ptqBVBE_IhdTh9gn-zKj6lgLeeluLhnU1mtJ03HVZ7YRuSE00xmNzbfTz-MzRGYlYGsuj43B0Q3B0QXBhGix2rWg9JRinmooP4U29bPlw1i-Z9Npiwg17fU21WKjzTeWMvcb_y2LFa4EiQXNw9_5m7EechcJcSvMCEwUz_I3YJdRQ7xkE8w7nd2tRycwKBzQRJAgkmoy-2msjW29ttwgh8nb6mS-3g8OcwqjRuMX_OYRf64PaQNn5CVOAyfR1cwNfOYA4w8uVYHO9jowNv_3lJ6-GyehxHWnkP_YMUZ_ZbiWF719YvTIl6g=w1168-h657-no https://lh3.googleusercontent.com/-9Dh4jCE6WXRPyQsqiVA9GWA6KD0yMy-TbX2TBTkYYtRveouPJASUrSPPtzy5fgglGqMtnDrQdV0zlf16jUftZVEssYUPC4fca-RXctqvi5SGCMDRSS1loDJ3GfWDP9MwwquUJ7VWSekdrp9IZK0GnYgpYLehtI124nisBH4iVEf3VwZbYYvh8Uw5IfkrSb_yRj686E0gGXAQ_tRO_aaLEU8RXPJjiFjLlkiU96rzON9jXdaFneP4n8KM_gfAGnZj2UUZk4IC5idszXcY_aDSQ40VPvR1OF_kG6nnkAKl36shTdKajVD5nJQl7GLZRfSIBUPNGRItESOiTLMCZNaFt58kW0NF5Wom2uDTJ-4TmI4qR8gdxRSeKjHzO7C04G8yrQWk37UqyICLXtM9GhExD6OAAzh3fu-LtOja9uNspVd5ENG-eWUEv1OBPlmY5_kEqbYlZlXthfgdqGkfTrx1_eCfKhfQqNILCntYO7Lm-GRu8BtV22EAmp5gApchKaQxBm1NmwSyp9Osraamv_FT2kK8eSRb-2CrSxb4G2AfOg=w1168-h657-no</value>
+						<value>images/f3129250b726bc68d58897290accdce4.jpeg images/970e5b177b66b0b2604c9b70ddf45e4e.jpeg</value>
 					</Data>
 				</ExtendedData>
 				<Point>
@@ -951,6 +963,290 @@
 				</ExtendedData>
 				<Point>
 					<coordinates>103.8727176,1.3017437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yishun Polyclinic</name>
+				<description><![CDATA[Unsheltered, beside footpath after carpark exit]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.83783820000001,1.4263051,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blk 848</name>
+				<description><![CDATA[Unsheltered]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8347912,1.4162995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanah Merah MRT
+</name>
+				<description><![CDATA[<img src="images/e070dd51319472a8ad8a288e75835655.jpeg" height="200" width="auto" /><br><br>Outside MRT exit and behind bus stop<br><br><img src="images/85bafe0a7639ad7d1636ffbcbb2c91e4.jpeg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/e070dd51319472a8ad8a288e75835655.jpeg images/85bafe0a7639ad7d1636ffbcbb2c91e4.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9459956,1.3273601,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Box
+</name>
+				<description><![CDATA[<img src="images/6e086212fbf0d9a6889bbd70374df3a4.jpeg" height="200" width="auto" /><br><br>Unsheltered area, next to driveway entrance to carpark]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/6e086212fbf0d9a6889bbd70374df3a4.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.7443793,1.3311839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (wheel racks)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.77027999999996,1.29828,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (staple racks)</name>
+				<description><![CDATA[bicycle parking (staple racks) for Kent Ridge MRT station (NUH exit)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.78454999999997,1.29427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (wheel racks)</name>
+				<description><![CDATA[sheltered bicycle parking (wheel racks)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.77022999999997,1.29476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (wheel racks)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.78059000000007,1.29733,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (staple racks)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.77440000000001,1.30368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (wheel racks)</name>
+				<description><![CDATA[sheltered bicycle parking (wheel racks) in carpark]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.77201000000002,1.30004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NUS bicycle parking (wheel racks)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.77043000000003,1.30052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bedok Mall, sheltered racks</name>
+				<description><![CDATA[<img src="images/8ec5198b330a65c1d1b4458fc5f8c23f.jpeg" height="200" width="auto" /><br><br>Dedicated parking space. Sheltered, low Sheffield/staple racks. Located right next to carpark entrance/exit ramp.<br><br><img src="images/c5e44044deba44d7b69f03f2a8bb944b.jpeg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/8ec5198b330a65c1d1b4458fc5f8c23f.jpeg images/c5e44044deba44d7b69f03f2a8bb944b.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9287436,1.3241477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Near Bedok Mall, outdoor racks</name>
+				<description><![CDATA[<img src="images/1f643e684b2d70b45a5161b405095b38.jpeg" height="200" width="auto" /><br><br>High Sheffield/staple racks. Unsheltered.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/1f643e684b2d70b45a5161b405095b38.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.92838420000001,1.3239868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Near Bedok Mall, outdoor racks</name>
+				<description><![CDATA[Wheel racks.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9304709,1.3243622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Airport Rd Food Centre, outdoor racks</name>
+				<description><![CDATA[<img src="images/fd0b7a7f5bae18e373531b8970ef0ae9.jpeg" height="200" width="auto" /><br><br>Wheel racks. Limited slots.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/fd0b7a7f5bae18e373531b8970ef0ae9.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8853884,1.3078495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Airport Rd Food Centre, outside multi-storey car park</name>
+				<description><![CDATA[<img src="images/790aecae11638690e4319a192dcf98b2.jpeg" height="200" width="auto" /><br><br>Wheel racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/790aecae11638690e4319a192dcf98b2.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8855842,1.3084448000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Airport Rd Food Centre</name>
+				<description><![CDATA[3 wheel racks under the staircase.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8860375,1.3081633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marina Square, sheltered racks inside car park</name>
+				<description><![CDATA[<img src="images/3890f9dabdd0343e126e6dfcb6aaa1e6.jpeg" height="200" width="auto" /><br><br>Nearest entrance (carpark exit; easy sidewalk access) along driveway into Mandarin Oriental hotel - see photos.<br><br><img src="images/271acebad6e42e575dd3a570df64010b.jpeg" height="200" width="auto" /><br><br><img src="images/6c8b41570d48b2a331c4d55427be29c1.jpeg" height="200" width="auto" /><br><br><img src="images/4e087abb39e193a6545296a7abc0acc8.jpeg" height="200" width="auto" /><br><br><img src="images/a5d90b6c79d4f504b8eaf4557a39ccfc.jpeg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/3890f9dabdd0343e126e6dfcb6aaa1e6.jpeg images/271acebad6e42e575dd3a570df64010b.jpeg images/6c8b41570d48b2a331c4d55427be29c1.jpeg images/4e087abb39e193a6545296a7abc0acc8.jpeg images/a5d90b6c79d4f504b8eaf4557a39ccfc.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.857598,1.2904197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanglin Mall, outdoor racks</name>
+				<description><![CDATA[<img src="images/dd2e6182a38c4734c740c0240e91b728.jpeg" height="200" width="auto" /><br><br>Wheel racks.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/dd2e6182a38c4734c740c0240e91b728.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.82356000000004,1.305147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bedok Point, outdoor racks</name>
+				<description><![CDATA[<img src="images/e7f71f8f3683b963a3ddf32484734981.jpeg" height="200" width="auto" /><br><br>U racks between Bedok Point Building and Blk 210.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/e7f71f8f3683b963a3ddf32484734981.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.9321876,1.3247537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Opposite Paya Lebar MRT, outdoor racks</name>
+				<description><![CDATA[Unsheltered.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8917238,1.3180178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Raffles City, B1 underground car park</name>
+				<description><![CDATA[<img src="images/e2f0274c65af8ed267098493ef3b0201.jpeg" height="200" width="auto" /><br><br>10 wheel racks. B1 access via Stamford Rd car park entrance. Located near Stamford Rd exit.<br><br><img src="images/bc94b62c771bec1ecd67b8b201ce1074.jpeg" height="200" width="auto" /><br><br><img src="images/1e9b56448764d6410512b1e398bf072c.jpeg" height="200" width="auto" /><br><br><img src="images/1d4c808f9bc76fbdcbac6de9d3cb8791.jpeg" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/e2f0274c65af8ed267098493ef3b0201.jpeg images/bc94b62c771bec1ecd67b8b201ce1074.jpeg images/1e9b56448764d6410512b1e398bf072c.jpeg images/1d4c808f9bc76fbdcbac6de9d3cb8791.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8526922,1.2937582,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>URA Centre, outdoor sheltered racks</name>
+				<description><![CDATA[<img src="images/7c0707a83a50c3d8471beec88ba935d1.jpeg" height="200" width="auto" /><br><br>Wheel racks, facing Maxwell market.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/7c0707a83a50c3d8471beec88ba935d1.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.84519699999998,1.279862,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Keppel Towers, sheltered racks</name>
+				<description><![CDATA[<img src="images/7b742301a9005952e809dceddad67c72.jpeg" height="200" width="auto" /><br><br>Sheltered & got security guard. Facing Tanjong Pagar Plaza.]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>images/7b742301a9005952e809dceddad67c72.jpeg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.84204899999997,1.274433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nee Soon East CC</name>
+				<description><![CDATA[Unsheltered, outside basketball court]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.8386348,1.4306998,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
