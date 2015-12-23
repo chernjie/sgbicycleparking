@@ -17,9 +17,11 @@ Mail varfie@gmail.com if interested to contribute!
 1. Open [Google Map](http://bit.ly/sgbikeparking) on your browser
 2. Then run the following to download KML file
 ```bash
-$ bin/download.sh
+$ make download
 ```
 3. Some post download actions
 ```bash
-$ bin/extractimages.sh
+$ make extract
 ```
+
+Note: Step 2 and 3 can be combined with one command `make all`
